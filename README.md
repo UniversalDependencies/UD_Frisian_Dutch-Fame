@@ -29,11 +29,11 @@ Data available since: UD v2.8
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
+Lemmas: not available
+UPOS: manual native
+XPOS: not available
+Features: not available
+Relations: manual native
 Contributors: Braggaar, Anouck; van der Goot, Rob
 Contributing: elsewhere
 Contact: a.r.y.braggaar@student.rug.nl
