@@ -1048,8 +1048,8 @@
 # text = yn eh yn Fryslân en Midden-Paleolithicum al hielendal net
 # speaker = fr/male/sp0312m
 # text_switch = yn [eh] yn Fryslân en [nl Midden-Paleolithicum] al hielendal net
-1	yn	_	ADP	_	_	3	reparandum	_	lang=fy
-2	eh	_	INTJ	_	_	3	discourse	_	lang=fy
+1	yn	_	ADP	_	_	4	reparandum	_	lang=fy
+2	eh	_	INTJ	_	_	4	discourse	_	lang=fy
 3	yn	_	ADP	_	_	4	case	_	lang=fy
 4	Fryslân	_	PROPN	_	_	0	root	_	lang=fy
 5	en	_	CCONJ	_	_	6	cc	_	lang=fy
@@ -1667,7 +1667,7 @@
 7	tsjin	_	ADP	_	_	2	case	_	lang=fy
 8	oare	_	ADJ	_	_	9	amod	_	lang=fy
 9	fragen	_	NOUN	_	_	2	obj	_	lang=fy
-10	op	_	ADP	_	_	7	compound:prt	_	lang=fy
+10	op	_	ADP	_	_	2	case	_	lang=fy
 11	en	_	CCONJ	_	_	13	cc	_	lang=fy
 12	dat	_	PRON	_	_	13	nsubj	_	lang=fy
 13	hat	_	VERB	_	_	2	ccomp	_	lang=fy
@@ -1830,8 +1830,8 @@
 3	Wilde	_	PROPN	_	_	1	flat:name	_	lang=nl
 4	in	_	DET	_	_	5	det	_	lang=fy
 5	man	_	NOUN	_	_	1	xcomp	_	lang=fy
-6	dy't	_	PRON	_	_	5	orphan	_	lang=fy
-7	in	_	DET	_	_	5	orphan	_	lang=fy
+6	dy't	_	PRON	_	_	1	orphan	_	lang=fy
+7	in	_	DET	_	_	1	orphan	_	lang=fy
 
 # sent_id = train_1980_aldjiersprogramma_9759.TextGrid.131
 # text = hokker offisjele funksje hat doctor de Vries no noch
@@ -3224,7 +3224,7 @@
 11	en	_	CCONJ	_	_	14	cc	_	lang=fy
 12	dat	_	SCONJ	_	_	13	reparandum	_	lang=fy
 13	dat	_	SCONJ	_	_	14	mark	_	lang=fy
-14	it	_	DET	_	_	10	orphan	_	lang=fy
+14	it	_	DET	_	_	4	orphan	_	lang=fy
 
 # sent_id = test_2013_buro_1500.TextGrid.577
 # text = op dat momint der sieten zulke moaie bylden yn
@@ -3340,7 +3340,7 @@
 2	dat	_	PRON	_	_	3	nsubj	_	lang=fy
 3	giet	_	VERB	_	_	0	root	_	lang=fy
 4	wol	_	ADV	_	_	3	advmod	_	lang=fy
-5	bytsje	_	NOUN	_	_	6	nmod	_	lang=fy
+5	bytsje	_	NOUN	_	_	3	obl	_	lang=fy
 6	langs	_	ADP	_	_	7	case	_	lang=nl
 7	my	_	PRON	_	_	3	obl	_	lang=fy
 8	hinne	_	ADP	_	_	3	case	_	lang=fy
@@ -3991,7 +3991,7 @@
 4	in	_	DET	_	_	6	det	_	lang=fy
 5	prima	_	ADJ	_	_	6	amod	_	lang=fy
 6	tiid	_	NOUN	_	_	0	root	_	lang=fy
-7	allinnich	_	ADJ	_	_	8	mark	_	lang=fy
+7	allinnich	_	ADJ	_	_	8	advmod	_	lang=fy
 8	hiest	_	VERB	_	_	6	advcl	_	lang=fy
 9	wol	_	ADV	_	_	10	advmod	_	lang=fy
 10	even	_	ADV	_	_	8	advmod	_	lang=fy
@@ -4201,8 +4201,8 @@
 12	fiif	_	NUM	_	_	10	flat	_	lang=fy
 13	en	_	CCONJ	_	_	10	flat	_	lang=fy
 14	fjirtich	_	NUM	_	_	10	flat	_	lang=fy
-15	yn	_	ADP	_	_	17	reparandum	_	lang=fy
-16	eh	_	INTJ	_	_	17	discourse	_	lang=fy
+15	yn	_	ADP	_	_	19	case	_	lang=fy
+16	eh	_	INTJ	_	_	19	discourse	_	lang=fy
 17	yn	_	ADP	_	_	18	case	_	lang=fy
 18	Grou	_	PROPN	_	_	19	obl	_	lang=fy
 19	kaam	_	VERB	_	_	0	root	_	lang=fy
@@ -4314,7 +4314,7 @@
 9	wer	_	ADV	_	_	10	advmod	_	lang=fy
 10	wat	_	PRON	_	_	2	obl	_	lang=fy
 11	fan	_	ADP	_	_	10	case	_	lang=fy
-12	ôf	_	ADP	_	_	10	orphan	_	lang=fy
+12	ôf	_	ADP	_	_	2	orphan	_	lang=fy
 
 # sent_id = train_1990_depauw_1968.TextGrid.652
 # text = binne it sokke rare beelden ik eh
@@ -4352,7 +4352,7 @@
 5	troch	_	ADP	_	_	8	compound	_	lang=fy
 6	de	_	DET	_	_	7	det	_	lang=fy
 7	tiid	_	NOUN	_	_	3	obl:tmod	_	lang=fy
-8	hinne	_	ADP	_	_	7	case	_	lang=fy
+8	hinne	_	ADP	_	_	7	obl	_	lang=fy
 9	toch	_	ADV	_	_	12	advmod	_	lang=nl
 10	steeds	_	ADV	_	_	11	advmod	_	lang=nl
 11	mear	_	ADV	_	_	12	advmod	_	lang=fy
@@ -4624,7 +4624,7 @@
 # speaker = fr/female/sp0362f
 # text_switch = trou om en by de fiif en tweintichste en [fr-nl geniet] earst fan jim jonge [nl leven]
 1	trou	_	VERB	_	_	0	root	_	lang=fy
-2	om	_	ADP	_	_	6	nummod	_	lang=fy
+2	om	_	ADP	_	_	6	case	_	lang=fy
 3	en	_	CCONJ	_	_	2	fixed	_	lang=fy
 4	by	_	ADP	_	_	2	fixed	_	lang=fy
 5	de	_	DET	_	_	6	det	_	lang=fy
@@ -5222,8 +5222,8 @@
 # text = en eh en ik haw eh ferskillende interviews mei minsken hân
 # speaker = fr/male/sp0340m
 # text_switch = en [eh] en ik haw [eh] ferskillende [nl interviews] mei minsken hân
-1	en	_	CCONJ	_	_	3	reparandum	_	lang=fy
-2	eh	_	INTJ	_	_	3	discourse	_	lang=fy
+1	en	_	CCONJ	_	_	2	reparandum	_	lang=fy
+2	eh	_	INTJ	_	_	11	discourse	_	lang=fy
 3	en	_	CCONJ	_	_	11	cc	_	lang=fy
 4	ik	_	PRON	_	_	11	nsubj	_	lang=fy
 5	haw	_	AUX	_	_	11	aux	_	lang=fy
@@ -5498,8 +5498,8 @@
 5	niks	_	PRON	_	_	3	obj	_	lang=nl
 6	fan	_	ADP	_	_	3	case	_	lang=fy
 7	hear	_	INTJ	_	_	3	discourse	_	lang=fy
-8	dat	_	SCONJ	_	_	10	reparandum	_	lang=fy
-9	eh	_	INTJ	_	_	10	discourse	_	lang=fy
+8	dat	_	SCONJ	_	_	15	reparandum	_	lang=fy
+9	eh	_	INTJ	_	_	15	discourse	_	lang=fy
 10	dat	_	SCONJ	_	_	15	mark	_	lang=fy
 11	se	_	PRON	_	_	15	nsubj	_	lang=fy
 12	niks	_	PRON	_	_	13	det	_	lang=nl
