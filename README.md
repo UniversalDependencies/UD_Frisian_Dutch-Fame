@@ -9,10 +9,45 @@ UD_Frisian_Dutch-Fame contains 400 utterances from the FAME! corpus by Yilmaz et
 We want to thank the creators of the FAME! speech corpus for the use of their corpus.
 
 ## References
-* Braggaar and Van der Goot (2021). Creating a Universal dependencies treebank of spoken Frisian-Dutch code-switched data.
+* Braggaar and Van der Goot (2021). Challenges in Annotating and Parsing Spoken, Code-switched, {F}risian-{D}utch Data. Proceedings of the Second Workshop on Domain Adaptation for NLP
 * Yilmaz, E., Andringa, M., Kingma, S., Dijkstra, J., van der Kuip, F., Van de Velde, H., Kampstra, F., Algra, J., van den Heuvel, H., Van Leeuwen, D. (2016a). A longitudinal bilingual Frisian-Dutch radio broadcast database desgined for code-switching research. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16).
 * Yilmaz, E., Heuvel, H., Dijkstra, H., Van de Velde, H., Kampstra, F., Algra, J., Van Leeuwen, D. (2016b). Open Source Speech and Language Resources for Frisian. INTERSPEECH.
 
+```
+@inproceedings{braggaar-van-der-goot-2021-challenges,
+    title = "Challenges in Annotating and Parsing Spoken, Code-switched, {F}risian-{D}utch Data",
+    author = "Braggaar, Anouck  and
+      van der Goot, Rob",
+    booktitle = "Proceedings of the Second Workshop on Domain Adaptation for NLP",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.adaptnlp-1.6",
+    pages = "50--58",
+}
+
+@inproceedings{yilmaz-etal-2016-longitudinal,
+    title = "A Longitudinal Bilingual {F}risian-{D}utch Radio Broadcast Database Designed for Code-Switching Research",
+    author = "Yilmaz, Emre  and
+      Andringa, Maaike  and
+      Kingma, Sigrid  and
+      Dijkstra, Jelske  and
+      van der Kuip, Frits  and
+      Van de Velde, Hans  and
+      Kampstra, Frederik  and
+      Algra, Jouke  and
+      van den Heuvel, Henk  and
+      van Leeuwen, David",
+    booktitle = "Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16)",
+    month = may,
+    year = "2016",
+    address = "Portoro{\v{z}}, Slovenia",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://www.aclweb.org/anthology/L16-1739",
+    pages = "4666--4669",
+}
+```
 
 # Changelog
 
