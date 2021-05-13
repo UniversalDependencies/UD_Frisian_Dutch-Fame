@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 6 20:16:19 2021 +0200
+Evaluating the following revision of UD_Frisian_Dutch-Fame:
+commit 63e49e883b13efcd1bd18bc6502069071bd82974
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 12 20:51:40 2021 +0200
+Size: counted 3729 of 3729 words (nodes).
+Size: min(0, log((N/1000)**2)) = 2.63228020239337.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 0 out of 3729 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 35 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL       1310
+Udapi: found 1310 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 3729 words.
+Genres: found 1 out of 17 known.
+validate.py --lang qfn --max-err=10 UD_Frisian_Dutch-Fame/qfn_fame-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
+(weight=0.256410256410256) * (score{size}=0.190530794453769) = 0.0488540498599408
+(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.764705882352941) = 0.0588235294117647
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
+(TOTAL score=0.190095744042811) * (availability=1) * (validity=1) = 0.190095744042811
+STARS = 1
+UD_Frisian_Dutch-Fame	0.190095744042811	1
