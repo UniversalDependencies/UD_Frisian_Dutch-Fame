@@ -1,4 +1,4 @@
-# newdoc id = doc
+# newdoc id = train_1977_streekplanfrieslandoperomte_15461
 # sent_id = train_1977_streekplanfrieslandoperomte_15461.TextGrid.1
 # text = de ontwikkeling in hoofdlijnen foar it yn it plan begrepen gebied
 # speaker = fr/male/sp0321m
@@ -15,6 +15,7 @@
 10	begrepen	_	VERB	_	_	9	amod	_	Lang=nl
 11	gebied	_	NOUN	_	_	2	nmod	_	Lang=nl
 
+# newdoc id = train_1985_itreadeear_15762
 # sent_id = train_1985_itreadeear_15762.TextGrid.2
 # text = eh dat is eh opjûn ek eh troch eh Muiden Chemie
 # speaker = fr/male/sp0331m
@@ -31,6 +32,7 @@
 10	Muiden	_	PROPN	_	_	5	obl	_	Lang=nl
 11	Chemie	_	PROPN	_	_	10	flat:name	_	Lang=nl
 
+# newdoc id = train_1970_sipkemar_5676
 # sent_id = train_1970_sipkemar_5676.TextGrid.3
 # text = in aventoer fan rechercheur Thomas Taktyk troch Piter Terpstra
 # speaker = fr/male/sp0005m
@@ -45,6 +47,7 @@
 8	Piter	_	PROPN	_	_	2	nmod	_	Lang=fy
 9	Terpstra	_	PROPN	_	_	8	flat:name	_	Lang=fy
 
+# newdoc id = devel_1967_kultuur_0010
 # sent_id = devel_1967_kultuur_0010.TextGrid.4
 # text = mefrou Van Heeswijk sjeffin fan de boutyk fan Fan der Brul
 # speaker = fr/male/sp0383m
@@ -61,6 +64,7 @@
 10	der	_	PRON	_	_	9	flat:name	_	Lang=fy
 11	Brul	_	PROPN	_	_	9	flat:name	_	Lang=fy
 
+# newdoc id = train_2006_omniumhitehei_8449
 # sent_id = train_2006_omniumhitehei_8449.TextGrid.5
 # text = altyd ten koste fan de ambities dy't op sa'n eh ministearje lizze
 # speaker = fr/male/sp0213m
@@ -78,6 +82,7 @@
 11	ministearje	_	NOUN	_	_	12	obl	_	Lang=fy
 12	lizze	_	VERB	_	_	6	acl	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14135
 # sent_id = train_2015_burodevrieslido_14135.TextGrid.6
 # text = dus it like heel wat mar toen kamen ja dy oare famkes dy kamen
 # speaker = fr/female/sp0296f
@@ -97,6 +102,7 @@
 13	dy	_	PRON	_	_	14	nsubj	_	Lang=fy
 14	kamen	_	VERB	_	_	8	ccomp	_	Lang=fy
 
+# newdoc id = train_2010_rec_4507
 # sent_id = train_2010_rec_4507.TextGrid.7
 # text = ek op 'e nij de saak wer toetse litte by de Raad van State
 # speaker = fr/male/sp0109m
@@ -116,6 +122,7 @@
 13	van	_	PROPN	_	_	12	flat:name	_	Lang=nl
 14	State	_	PROPN	_	_	12	flat:name	_	Lang=nl
 
+# newdoc id = train_1979_opsompensan_12677
 # sent_id = train_1979_opsompensan_12677.TextGrid.8
 # text = de fonteinkruiden yn it Nederlânsk
 # speaker = fr/male/sp0035m
@@ -126,6 +133,7 @@
 4	it	_	DET	_	_	5	det	_	Lang=fy
 5	Nederlânsk	_	ADJ	_	_	2	nmod	_	Lang=fy
 
+# newdoc id = train_1984_kultuerliteratuur_17937
 # sent_id = train_1984_kultuerliteratuur_17937.TextGrid.9
 # text = en net te ferjitten mei de fersen fan Hendrik de Vries
 # speaker = fr/male/sp0366m
@@ -142,6 +150,7 @@
 10	de	_	PROPN	_	_	9	flat:name	_	Lang=nl
 11	Vries	_	PROPN	_	_	9	flat:name	_	Lang=nl
 
+# newdoc id = train_2011_burodevries_16870
 # sent_id = train_2011_burodevries_16870.TextGrid.10
 # text = freegje de Provinsjale Staten fan Fryslân it KOVS
 # speaker = fr/male/sp0349m
@@ -155,6 +164,7 @@
 7	it	_	DET	_	_	8	det	_	Lang=fy
 8	KOVS	_	PROPN	_	_	1	iobj	_	Lang=fy
 
+# newdoc id = devel_2007_voedselbank_1317
 # sent_id = devel_2007_voedselbank_1317.TextGrid.11
 # text = ja wy bringe wat hè wij gaan wat ruilen wij hebben wat ruilhandel
 # speaker = nl/male/sp0415m
@@ -173,6 +183,7 @@
 12	wat	_	PRON	_	_	13	obj	_	Lang=nl
 13	ruilhandel	_	NOUN	_	_	11	xcomp	_	Lang=nl
 
+# newdoc id = train_2006_omniumjankalma_8577
 # sent_id = train_2006_omniumjankalma_8577.TextGrid.12
 # text = dat is ek wat der yn dy skoalle leeft
 # speaker = fr/male/sp0214m
@@ -187,6 +198,7 @@
 8	skoalle	_	NOUN	_	_	9	nmod	_	Lang=fy
 9	leeft	_	VERB	_	_	4	acl	_	Lang=nl
 
+# newdoc id = devel_1987_kultuur_0263
 # sent_id = devel_1987_kultuur_0263.TextGrid.13
 # text = en it Frysk sels ek eh dat praat eens Hollands se
 # speaker = fr/male/sp0395m
@@ -203,6 +215,7 @@
 10	Hollands	_	PROPN	_	_	8	obl	_	Lang=nl
 11	se	_	PRON	_	_	8	orphan	_	Lang=fy
 
+# newdoc id = train_2010_burodevries_10651
 # sent_id = train_2010_burodevries_10651.TextGrid.14
 # text = ja de leuke dingen yn it leven
 # speaker = fr/male/sp0242m
@@ -215,6 +228,7 @@
 6	it	_	DET	_	_	7	det	_	Lang=fy
 7	leven	_	NOUN	_	_	4	nmod	_	Lang=nl
 
+# newdoc id = train_2002_gongfansaken_10386
 # sent_id = train_2002_gongfansaken_10386.TextGrid.15
 # text = wie it in soart iepenbierens ervaring of sa
 # speaker = fr/male/sp0097m
@@ -228,6 +242,7 @@
 7	of	_	CCONJ	_	_	8	cc	_	Lang=fy
 8	sa	_	ADV	_	_	6	conj	_	Lang=fy
 
+# newdoc id = train_2010_burodevries_10616
 # sent_id = train_2010_burodevries_10616.TextGrid.16
 # text = eh wêrby er eh ja goed ek in hele protte respekt
 # speaker = fr/male/sp0236m
@@ -244,6 +259,7 @@
 10	protte	_	NOUN	_	_	11	nmod	_	Lang=fy
 11	respekt	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2010_rec_4497
 # sent_id = train_2010_rec_4497.TextGrid.17
 # text = eh dêroer ek wer eh Sabine Heijstek fan de Raad van State
 # speaker = fr/male/sp0109m
@@ -261,6 +277,7 @@
 11	van	_	PROPN	_	_	10	flat:name	_	Lang=nl
 12	State	_	PROPN	_	_	10	flat:name	_	Lang=nl
 
+# newdoc id = train_1977_socialezakenenwerkgelegenheid_12574
 # sent_id = train_1977_socialezakenenwerkgelegenheid_12574.TextGrid.18
 # text = is der helemaal gjin ferskil
 # speaker = fr/female/sp0030f
@@ -271,6 +288,7 @@
 4	gjin	_	PRON	_	_	5	nmod	_	Lang=fy
 5	ferskil	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14901
 # sent_id = train_1998_gongfansaken_14901.TextGrid.19
 # text = op syn njoggentjinde troude Tsjerk mei Grada Jansen
 # speaker = fr/male/sp0052m
@@ -284,6 +302,7 @@
 7	Grada	_	PROPN	_	_	4	obl	_	Lang=fy
 8	Jansen	_	PROPN	_	_	7	flat:name	_	Lang=nl
 
+# newdoc id = train_1994_gong_2642
 # sent_id = train_1994_gong_2642.TextGrid.20
 # text = Gerke Visser het heger berop oantekene
 # speaker = fr/female/sp0055f
@@ -295,6 +314,7 @@
 5	berop	_	NOUN	_	_	6	obj	_	Lang=fy
 6	oantekene	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14893
 # sent_id = train_1998_gongfansaken_14893.TextGrid.21
 # text = yn in interview út njoggentjin seis en santich
 # speaker = fr/male/sp0052m
@@ -308,6 +328,7 @@
 7	en	_	CCONJ	_	_	5	flat	_	Lang=fy
 8	santich	_	NUM	_	_	5	flat	_	Lang=fy
 
+# newdoc id = train_2011_mirandadijkstra_4911
 # sent_id = train_2011_mirandadijkstra_4911.TextGrid.22
 # text = en we hewwe hjir boven in kunstatelier en noch in tekstylatelier
 # speaker = fr/female/sp0138f
@@ -324,6 +345,7 @@
 10	in	_	DET	_	_	11	det	_	Lang=fy
 11	tekstylatelier	_	NOUN	_	_	7	conj	_	Lang=fy
 
+# newdoc id = train_2013_omniumhitehei_9234
 # sent_id = train_2013_omniumhitehei_9234.TextGrid.23
 # text = of eh ergens yn in âlde sok of sa
 # speaker = fr/male/sp0219m
@@ -338,6 +360,7 @@
 8	of	_	CCONJ	_	_	9	cc	_	Lang=fy
 9	sa	_	ADV	_	_	7	conj	_	Lang=fy
 
+# newdoc id = test_2013_buro_1521
 # sent_id = test_2013_buro_1521.TextGrid.24
 # text = mar ja dat ha je wol deselde beelden in bytsje dy je ek yn de Oostvaardersplassen sjugge
 # speaker = fr/female/sp0448f
@@ -360,6 +383,7 @@
 16	Oostvaardersplassen	_	PROPN	_	_	17	obl	_	Lang=nl
 17	sjugge	_	VERB	_	_	8	acl	_	Lang=fy
 
+# newdoc id = devel_2012_tjallingvandergoot_1557
 # sent_id = devel_2012_tjallingvandergoot_1557.TextGrid.25
 # text = wêrby kabaretjêre Floor van der Wal om it libben kaam
 # speaker = fr/male/sp0419m
@@ -375,6 +399,7 @@
 9	libben	_	NOUN	_	_	8	flat	_	Lang=fy
 10	kaam	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2186
 # sent_id = devel_2009_omniumhansdeboer_2186.TextGrid.26
 # text = docht in paar dingen
 # speaker = fr/male/sp0427m
@@ -384,6 +409,7 @@
 3	paar	_	NOUN	_	_	4	nmod	_	Lang=nl
 4	dingen	_	NOUN	_	_	1	nsubj	_	Lang=fy
 
+# newdoc id = train_2014_dutskearts_5535
 # sent_id = train_2014_dutskearts_5535.TextGrid.27
 # text = en eh ik ha wel Friese roots mijn eh
 # speaker = nl/male/sp0154m
@@ -398,6 +424,7 @@
 8	mijn	_	PRON	_	_	4	parataxis	_	Lang=nl
 9	eh	_	INTJ	_	_	4	discourse	_	Lang=nl
 
+# newdoc id = train_2004_hofstra_3687
 # sent_id = train_2004_hofstra_3687.TextGrid.28
 # text = podium nei dy mjitting of foar de mjitting
 # speaker = fr/male/sp0109m
@@ -411,6 +438,7 @@
 7	de	_	DET	_	_	8	det	_	Lang=fy
 8	mjitting	_	NOUN	_	_	4	conj	_	Lang=fy
 
+# newdoc id = train_2000_sportriemervandervelde_7892
 # sent_id = train_2000_sportriemervandervelde_7892.TextGrid.29
 # text = oh dat fyn ik net eh we ha dat dus toch wat eh
 # speaker = fr/male/sp0208m
@@ -429,6 +457,7 @@
 12	wat	_	PRON	_	_	8	obl	_	Lang=fy
 13	eh	_	INTJ	_	_	3	discourse	_	Lang=fy
 
+# newdoc id = devel_1998_gong_0849
 # sent_id = devel_1998_gong_0849.TextGrid.30
 # text = wy dogge dat as volgt
 # speaker = fr/female/sp0409f
@@ -439,6 +468,7 @@
 4	as	_	SCONJ	_	_	5	mark	_	Lang=fy
 5	volgt	_	VERB	_	_	2	xcomp	_	Lang=nl
 
+# newdoc id = train_1981_opbesitebij_6594
 # sent_id = train_1981_opbesitebij_6594.TextGrid.31
 # text = en toen seinen we witte je wat we meitsje in programma
 # speaker = fr/male/sp0177m
@@ -455,6 +485,7 @@
 10	in	_	DET	_	_	11	det	_	Lang=fy
 11	programma	_	NOUN	_	_	9	obl	_	Lang=fy
 
+# newdoc id = train_1980_aldjiersprogramma_9775
 # sent_id = train_1980_aldjiersprogramma_9775.TextGrid.32
 # text = dus Zeist doch jim bêst Jeltsje de Jong en Fennema
 # speaker = fr/female/sp0030f
@@ -470,6 +501,7 @@
 9	en	_	CCONJ	_	_	10	cc	_	Lang=fy
 10	Fennema	_	PROPN	_	_	6	conj	_	Lang=fy
 
+# newdoc id = train_2013_briankabbes_5132
 # sent_id = train_2013_briankabbes_5132.TextGrid.33
 # text = foar welke plant he je echt in soad muoite dwaan moatten
 # speaker = fr/female/sp0137f
@@ -486,6 +518,7 @@
 10	dwaan	_	VERB	_	_	3	acl	_	Lang=fy
 11	moatten	_	AUX	_	_	10	aux	_	Lang=fy
 
+# newdoc id = devel_2007_voedselbank_1309
 # sent_id = devel_2007_voedselbank_1309.TextGrid.34
 # text = dat hoop ik net nee nee
 # speaker = fr/male/sp0414m
@@ -497,6 +530,7 @@
 5	nee	_	INTJ	_	_	6	reparandum	_	Lang=fy
 6	nee	_	INTJ	_	_	2	discourse	_	Lang=fy
 
+# newdoc id = train_1970_sipkemar_5594
 # sent_id = train_1970_sipkemar_5594.TextGrid.35
 # text = au rotzak ik
 # speaker = fr/male/sp0155m
@@ -505,6 +539,7 @@
 2	rotzak	_	NOUN	_	_	0	root	_	Lang=nl
 3	ik	_	PRON	_	_	2	orphan	_	Lang=fy
 
+# newdoc id = train_2004_gongfansaken_16933
 # sent_id = train_2004_gongfansaken_16933.TextGrid.36
 # text = en dat kinne jo noch steeds
 # speaker = fr/male/sp0100m
@@ -516,6 +551,7 @@
 5	noch	_	ADV	_	_	6	advmod	_	Lang=fy
 6	steeds	_	ADV	_	_	3	advmod	_	Lang=nl
 
+# newdoc id = train_1990_depauw_1929
 # sent_id = train_1990_depauw_1929.TextGrid.37
 # text = en ik bin letter eh toen ik in jier as achttjin wie
 # speaker = fr/female/sp0054f
@@ -533,6 +569,7 @@
 11	achttjin	_	NUM	_	_	9	nummod	_	Lang=fy
 12	wie	_	AUX	_	_	9	cop	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14894
 # sent_id = train_1998_gongfansaken_14894.TextGrid.38
 # text = in jier letter moast Vermaning foar de rjochtbank ferskine foar it ferfalskjen fan stiennen
 # speaker = fr/male/sp0052m
@@ -552,6 +589,7 @@
 13	fan	_	ADP	_	_	14	case	_	Lang=fy
 14	stiennen	_	NOUN	_	_	12	obj	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14912
 # sent_id = train_1998_gongfansaken_14912.TextGrid.39
 # text = Jan-Evert Mus amateurarcheolooch en freon
 # speaker = fr/male/sp0052m
@@ -562,6 +600,7 @@
 4	en	_	CCONJ	_	_	5	cc	_	Lang=fy
 5	freon	_	NOUN	_	_	3	conj	_	Lang=fy
 
+# newdoc id = train_1985_oarloch_12198
 # sent_id = train_1985_oarloch_12198.TextGrid.40
 # text = professor Van Genechten yn ien fan syn lêzingen oer het jodenvraagstuk
 # speaker = fr/male/sp0044m
@@ -578,6 +617,7 @@
 10	het	_	DET	_	_	11	det	_	Lang=nl
 11	jodenvraagstuk	_	NOUN	_	_	8	nmod	_	Lang=nl
 
+# newdoc id = devel_1993_gong_0625
 # sent_id = devel_1993_gong_0625.TextGrid.41
 # text = en mei Ann Mannen dy't yn oktober de V N yn New York tasprutsen hat
 # speaker = fr/female/sp0030f
@@ -598,6 +638,7 @@
 14	tasprutsen	_	VERB	_	_	3	acl	_	Lang=fy
 15	hat	_	AUX	_	_	14	aux	_	Lang=fy
 
+# newdoc id = train_2000_sportriemervandervelde_7928
 # sent_id = train_2000_sportriemervandervelde_7928.TextGrid.42
 # text = mar as wy ergens yn novimber de beslissing nimme
 # speaker = fr/male/sp0208m
@@ -612,6 +653,7 @@
 8	beslissing	_	NOUN	_	_	9	obj	_	Lang=fy
 9	nimme	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2006_omnium_11756
 # sent_id = train_2006_omnium_11756.TextGrid.43
 # text = en wat wie dan it earste onderwerp ast dy herinnerje kinst
 # speaker = fr/female/sp0126f
@@ -628,6 +670,7 @@
 10	herinnerje	_	VERB	_	_	7	acl	_	Lang=fy-nl
 11	kinst	_	AUX	_	_	10	aux	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15632
 # sent_id = train_1978_reportaazje_15632.TextGrid.44
 # text = mar dan betelle myn heit dy betelle it grutste aandeel yn dy scheper
 # speaker = fr/male/sp0327m
@@ -646,6 +689,7 @@
 12	dy	_	DET	_	_	13	det	_	Lang=fy
 13	scheper	_	NOUN	_	_	7	obl	_	Lang=nl
 
+# newdoc id = train_1986_sunenssoarch_7214
 # sent_id = train_1986_sunenssoarch_7214.TextGrid.45
 # text = feit dat je telkens mar sizze fan
 # speaker = fr/female/sp0193f
@@ -658,6 +702,7 @@
 6	sizze	_	VERB	_	_	1	ccomp	_	Lang=fy
 7	fan	_	ADP	_	_	6	case	_	Lang=fy
 
+# newdoc id = train_1987_steateferkiezings_13257
 # sent_id = train_1987_steateferkiezings_13257.TextGrid.46
 # text = like dat der ek aardich op ik tink dat Friesland wer
 # speaker = fr/male/sp0288m
@@ -674,6 +719,7 @@
 10	Friesland	_	PROPN	_	_	8	ccomp	_	Lang=nl
 11	wer	_	ADV	_	_	8	advmod	_	Lang=fy
 
+# newdoc id = train_1984_sammelban_18761
 # sent_id = train_1984_sammelban_18761.TextGrid.47
 # text = wat is dat foar in gelûd dokter Kwakman
 # speaker = fr/male/sp0377m
@@ -687,6 +733,7 @@
 7	dokter	_	NOUN	_	_	1	vocative	_	Lang=fy
 8	Kwakman	_	PROPN	_	_	7	appos	_	Lang=nl
 
+# newdoc id = train_1966_geschiedenis_0287
 # sent_id = train_1966_geschiedenis_0287.TextGrid.48
 # text = eh doe wie it moeilijk
 # speaker = fr/male/sp0006m
@@ -697,6 +744,7 @@
 4	it	_	PRON	_	_	5	obj	_	Lang=fy
 5	moeilijk	_	ADJ	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2006_omniumjankalma_8547
 # sent_id = train_2006_omniumjankalma_8547.TextGrid.49
 # text = en dy klapten helemaal ticht
 # speaker = fr/male/sp0214m
@@ -707,6 +755,7 @@
 4	helemaal	_	ADV	_	_	5	advmod	_	Lang=nl
 5	ticht	_	ADJ	_	_	3	compound:prt	_	Lang=fy
 
+# newdoc id = train_2013_omnium_16259
 # sent_id = train_2013_omnium_16259.TextGrid.50
 # text = dat lêzen en dy interviews
 # speaker = fr/male/sp0340m
@@ -717,6 +766,7 @@
 4	dy	_	DET	_	_	5	det	_	Lang=fy
 5	interviews	_	NOUN	_	_	2	conj	_	Lang=nl
 
+# newdoc id = train_1973_sammelbn_17735
 # sent_id = train_1973_sammelbn_17735.TextGrid.51
 # text = it soe foar myn standpunt soe it heel winsklik wêze
 # speaker = fr/female/sp0362f
@@ -732,6 +782,7 @@
 9	winsklik	_	ADJ	_	_	0	root	_	Lang=fy
 10	wêze	_	AUX	_	_	9	cop	_	Lang=fy
 
+# newdoc id = train_2013_omniumhitehei_9203
 # sent_id = train_2013_omniumhitehei_9203.TextGrid.52
 # text = dy dy voormalige C I A agint dan no fertelt
 # speaker = fr/male/sp0219m
@@ -747,6 +798,7 @@
 9	no	_	ADV	_	_	10	advmod	_	Lang=fy
 10	fertelt	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1993_gong_2473
 # sent_id = train_1993_gong_2473.TextGrid.53
 # text = mar ja in swimbad is toch nij
 # speaker = fr/male/sp0075m
@@ -759,6 +811,7 @@
 6	toch	_	ADV	_	_	7	advmod	_	Lang=nl
 7	nij	_	ADJ	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2002_kristavanvelzen_3316
 # sent_id = train_2002_kristavanvelzen_3316.TextGrid.54
 # text = Teun de Vries skoalle sitten
 # speaker = fr/male/sp0100m
@@ -769,6 +822,7 @@
 4	skoalle	_	NOUN	_	_	5	obj	_	Lang=fy
 5	sitten	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2011_omniumrepobuntebargen_8974
 # sent_id = train_2011_omniumrepobuntebargen_8974.TextGrid.55
 # text = bonte Bentheimer bargen
 # speaker = fr/male/sp0217m
@@ -777,6 +831,7 @@
 2	Bentheimer	_	ADJ	_	_	3	amod	_	Lang=fy
 3	bargen	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = test_1990_gong_0361
 # sent_id = test_1990_gong_0361.TextGrid.56
 # text = Joop Zoetemelk waard wrâldkampioen hurdfytsen
 # speaker = fr/female/sp0081f
@@ -787,6 +842,7 @@
 4	wrâldkampioen	_	NOUN	_	_	0	root	_	Lang=fy
 5	hurdfytsen	_	NOUN	_	_	4	appos	_	Lang=fy
 
+# newdoc id = train_1967_natoerenmiljeu_0422
 # sent_id = train_1967_natoerenmiljeu_0422.TextGrid.57
 # text = respectievelijk penningmeester en bestuurslid van de vereniging it Fryske Gea
 # speaker = nl/male/sp0001m
@@ -802,6 +858,7 @@
 9	Fryske	_	PROPN	_	_	7	appos	_	Lang=fy
 10	Gea	_	PROPN	_	_	9	flat:name	_	Lang=fy
 
+# newdoc id = test_2013_buro_1484
 # sent_id = test_2013_buro_1484.TextGrid.58
 # text = hesto dy film trouwens sjoen De nieuwe wildernis
 # speaker = fr/female/sp0137f
@@ -815,6 +872,7 @@
 7	nieuwe	_	PROPN	_	_	6	flat:name	_	Lang=nl
 8	wildernis	_	PROPN	_	_	7	flat:name	_	Lang=nl
 
+# newdoc id = train_1998_tinkwize_3141
 # sent_id = train_1998_tinkwize_3141.TextGrid.59
 # text = om hun eh tsjin it opkommende wetter te beskermjen
 # speaker = fr/female/sp0096f
@@ -829,6 +887,7 @@
 8	te	_	ADP	_	_	9	mark	_	Lang=fy
 9	beskermjen	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = test_2001_gong_1061
 # sent_id = test_2001_gong_1061.TextGrid.60
 # text = resistentie tsjin wurgens en wratsykte
 # speaker = fr/male/sp0439m
@@ -839,6 +898,7 @@
 4	en	_	CCONJ	_	_	5	cc	_	Lang=fy
 5	wratsykte	_	NOUN	_	_	3	conj	_	Lang=fy
 
+# newdoc id = train_1993_gongfansaken_2612
 # sent_id = train_1993_gongfansaken_2612.TextGrid.61
 # text = oar gebou komme sil mei noch mear mooglikheden dan Ons huis hie
 # speaker = fr/male/sp0001m
@@ -856,6 +916,7 @@
 11	huis	_	NOUN	_	_	12	nsubj	_	Lang=nl
 12	hie	_	VERB	_	_	8	advcl	_	Lang=fy
 
+# newdoc id = train_2002_kristavanvelzen_3290
 # sent_id = train_2002_kristavanvelzen_3290.TextGrid.62
 # text = fan moarns ier tot jûns hartstikke let
 # speaker = fr/male/sp0100m
@@ -868,6 +929,7 @@
 6	hartstikke	_	ADV	_	_	7	advmod	_	Lang=fy
 7	let	_	ADJ	_	_	5	advmod	_	Lang=fy
 
+# newdoc id = train_2006_omniumjankalma_8600
 # sent_id = train_2006_omniumjankalma_8600.TextGrid.63
 # text = eigenlik heel eenvormig mar ek wol wer heel moai
 # speaker = fr/male/sp0214m
@@ -882,6 +944,7 @@
 8	heel	_	ADJ	_	_	9	advmod	_	Lang=fy
 9	moai	_	ADJ	_	_	3	conj	_	Lang=fy
 
+# newdoc id = devel_1973_gehandicapten_1750
 # sent_id = devel_1973_gehandicapten_1750.TextGrid.64
 # text = eh ik wol ris even nei de hear Van der Noord
 # speaker = fr/male/sp0000m
@@ -898,6 +961,7 @@
 10	der	_	PROPN	_	_	9	flat:name	_	Lang=nl
 11	Noord	_	PROPN	_	_	9	flat:name	_	Lang=nl
 
+# newdoc id = train_2004_hofstra_3660
 # sent_id = train_2004_hofstra_3660.TextGrid.65
 # text = syn wedstryd yn de earste ronde tsjin de nûmer trije fan de pleatsingslist Murphy King
 # speaker = fr/male/sp0108m
@@ -918,6 +982,7 @@
 14	Murphy	_	PROPN	_	_	13	appos	_	Lang=en
 15	King	_	PROPN	_	_	14	flat:name	_	Lang=en
 
+# newdoc id = train_2013_briankabbes_5135
 # sent_id = train_2013_briankabbes_5135.TextGrid.66
 # text = helemaal net op hennep toch
 # speaker = fr/female/sp0137f
@@ -928,6 +993,7 @@
 4	hennep	_	NOUN	_	_	0	root	_	Lang=fy
 5	toch	_	INTJ	_	_	4	discourse	_	Lang=nl
 
+# newdoc id = train_1993_streekkultuerealahuzen_11115
 # sent_id = train_1993_streekkultuerealahuzen_11115.TextGrid.67
 # text = toen gongen dy wenningen oanmerkelik yn priis nei beneden
 # speaker = fr/male/sp0043m
@@ -942,6 +1008,7 @@
 8	nei	_	ADP	_	_	9	case	_	Lang=fy
 9	beneden	_	ADP	_	_	2	obl	_	Lang=nl
 
+# newdoc id = train_1970_kultueralgemeen_17485
 # sent_id = train_1970_kultueralgemeen_17485.TextGrid.68
 # text = en mei de keunstsamler en keunstkenner doktor Straat fan Tytsjerk
 # speaker = fr/male/sp0000m
@@ -957,6 +1024,7 @@
 9	fan	_	PROPN	_	_	8	flat:name	_	Lang=fy
 10	Tytsjerk	_	PROPN	_	_	8	flat:name	_	Lang=fy
 
+# newdoc id = train_1984_sammelban_18728
 # sent_id = train_1984_sammelban_18728.TextGrid.69
 # text = do sjochst toch wol dat ik yn de
 # speaker = fr/male/sp0376m
@@ -970,6 +1038,7 @@
 7	yn	_	ADP	_	_	2	orphan	_	Lang=fy
 8	de	_	DET	_	_	2	orphan	_	Lang=fy
 
+# newdoc id = train_1980_kultuerregionaleomrop_17379
 # sent_id = train_1980_kultuerregionaleomrop_17379.TextGrid.70
 # text = waarvan wij Radio Fryslân
 # speaker = nl/male/sp0358m
@@ -979,6 +1048,7 @@
 3	Radio	_	PROPN	_	_	2	appos	_	Lang=nl
 4	Fryslân	_	PROPN	_	_	3	flat:name	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2115
 # sent_id = devel_2009_omniumhansdeboer_2115.TextGrid.71
 # text = omdat eh ja jongeren eh binne faak as earste it slachtoffer
 # speaker = fr/male/sp0427m
@@ -995,6 +1065,7 @@
 10	it	_	DET	_	_	11	det	_	Lang=fy
 11	slachtoffer	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1970_kultueralgemeen_17488
 # sent_id = train_1970_kultueralgemeen_17488.TextGrid.72
 # text = de hear Straat syn antwurd
 # speaker = fr/male/sp0000m
@@ -1005,6 +1076,7 @@
 4	syn	_	PRON	_	_	5	nmod:poss	_	Lang=fy
 5	antwurd	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1968_sportkaatsen_12488
 # sent_id = train_1968_sportkaatsen_12488.TextGrid.73
 # text = Klaas van Wieren en Johan Halbertsma
 # speaker = fr/male/sp0268m
@@ -1016,6 +1088,7 @@
 5	Johan	_	PROPN	_	_	1	conj	_	Lang=fy
 6	Halbertsma	_	PROPN	_	_	5	flat:name	_	Lang=fy
 
+# newdoc id = train_1982_sosjaleskiednis_6970
 # sent_id = train_1982_sosjaleskiednis_6970.TextGrid.74
 # text = en dat die in sekere Tsjip van der Beek
 # speaker = fr/male/sp0187m
@@ -1030,6 +1103,7 @@
 8	der	_	PROPN	_	_	6	flat:name	_	Lang=nl
 9	Beek	_	PROPN	_	_	6	flat:name	_	Lang=nl
 
+# newdoc id = train_2012_omnium_16103
 # sent_id = train_2012_omnium_16103.TextGrid.75
 # text = no ja goed eh toen hie ik dêr eh
 # speaker = fr/male/sp0335m
@@ -1044,6 +1118,7 @@
 8	dêr	_	PRON	_	_	6	expl	_	Lang=fy
 9	eh	_	INTJ	_	_	6	discourse	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14966
 # sent_id = train_1998_gongfansaken_14966.TextGrid.76
 # text = yn eh yn Fryslân en Midden-Paleolithicum al hielendal net
 # speaker = fr/male/sp0312m
@@ -1058,6 +1133,7 @@
 8	hielendal	_	ADV	_	_	9	advmod	_	Lang=fy
 9	net	_	ADV	_	_	4	advmod	_	Lang=fy
 
+# newdoc id = train_2000_sportriemervandervelde_7919
 # sent_id = train_2000_sportriemervandervelde_7919.TextGrid.77
 # text = eh hondert fyftich miljoen gegarandeerd krije
 # speaker = fr/male/sp0208m
@@ -1069,6 +1145,7 @@
 5	gegarandeerd	_	ADV	_	_	6	advmod	_	Lang=nl
 6	krije	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = test_2008_kultuer_1282
 # sent_id = test_2008_kultuer_1282.TextGrid.78
 # text = en wêr't it lekker warm is
 # speaker = fr/male/sp0443m
@@ -1080,6 +1157,7 @@
 5	warm	_	ADJ	_	_	0	root	_	Lang=nl
 6	is	_	AUX	_	_	5	cop	_	Lang=fy
 
+# newdoc id = test_2000_itfjildyn_0868
 # sent_id = test_2000_itfjildyn_0868.TextGrid.79
 # text = hjir flakby is in in eh in schuilhut
 # speaker = fr/male/sp0438m
@@ -1093,6 +1171,7 @@
 7	in	_	DET	_	_	8	det	_	Lang=fy
 8	schuilhut	_	NOUN	_	_	3	nsubj	_	Lang=nl
 
+# newdoc id = devel_1993_gong_0628
 # sent_id = devel_1993_gong_0628.TextGrid.80
 # text = Ann Mannen is berne yn Suriname
 # speaker = fr/female/sp0030f
@@ -1104,6 +1183,7 @@
 5	yn	_	ADP	_	_	6	case	_	Lang=fy
 6	Suriname	_	PROPN	_	_	4	obl	_	Lang=fy
 
+# newdoc id = train_1992_itreadeear_2252
 # sent_id = train_1992_itreadeear_2252.TextGrid.81
 # text = dit ferhaaltsje earst even ôfmeitsje De Haan allegear wol oer
 # speaker = fr/female/sp0030f
@@ -1119,6 +1199,7 @@
 9	wol	_	ADV	_	_	8	advmod	_	Lang=fy
 10	oer	_	ADP	_	_	9	case	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17144
 # sent_id = train_2002_gongfansaken_17144.TextGrid.82
 # text = dêr kinne we in hele hoop oer sizze mar
 # speaker = fr/male/sp0355m
@@ -1133,6 +1214,7 @@
 8	sizze	_	VERB	_	_	0	root	_	Lang=fy
 9	mar	_	CCONJ	_	_	8	orphan	_	Lang=fy
 
+# newdoc id = train_1981_polityk_11248
 # sent_id = train_1981_polityk_11248.TextGrid.83
 # text = dy't hjir profijt fan ha kin
 # speaker = fr/male/sp0252m
@@ -1144,6 +1226,7 @@
 5	ha	_	VERB	_	_	0	root	_	Lang=fy
 6	kin	_	AUX	_	_	5	aux	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14342
 # sent_id = train_2005_omnium_14342.TextGrid.84
 # text = mar wy he hjoed he we yn ieder gefal eh hûndert fyftich tenten he we binnenkrigen
 # speaker = fr/male/sp0306m
@@ -1165,6 +1248,7 @@
 15	we	_	PRON	_	_	16	nsubj	_	Lang=fy
 16	binnenkrigen	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1985_itreadeear_15683
 # sent_id = train_1985_itreadeear_15683.TextGrid.85
 # text = Hooiring de wurdfierder fan de Partij fan de Arbeid
 # speaker = fr/female/sp0030f
@@ -1179,6 +1263,7 @@
 8	de	_	PROPN	_	_	6	flat:name	_	Lang=fy
 9	Arbeid	_	PROPN	_	_	6	flat:name	_	Lang=fy
 
+# newdoc id = train_1977_watervoorziening_1074
 # sent_id = train_1977_watervoorziening_1074.TextGrid.86
 # text = jo pompe foarlopich wol rustig troch
 # speaker = fr/male/sp0035m
@@ -1190,6 +1275,7 @@
 5	rustig	_	ADJ	_	_	2	advmod	_	Lang=nl
 6	troch	_	ADP	_	_	2	case	_	Lang=fy
 
+# newdoc id = devel_1990_gong_0497
 # sent_id = devel_1990_gong_0497.TextGrid.87
 # text = sa is de situatie no noch wol dat der in soad minsken eh te lang yn it sikenhûs lizze
 # speaker = fr/female/sp0055f
@@ -1214,6 +1300,7 @@
 18	sikenhûs	_	NOUN	_	_	19	obl	_	Lang=fy-nl
 19	lizze	_	VERB	_	_	2	ccomp	_	Lang=fy
 
+# newdoc id = devel_2007_voedselbank_1247
 # sent_id = devel_2007_voedselbank_1247.TextGrid.88
 # text = yn it welvarende Harns dêr hoecht einliks net in Voedselbank te wêzen foar fiif en tweintich of wol
 # speaker = fr/male/sp0413m
@@ -1237,6 +1324,7 @@
 17	of	_	ADP	_	_	6	discourse	_	Lang=fy
 18	wol	_	ADV	_	_	17	fixed	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7299
 # sent_id = train_1986_sunenssoarch_7299.TextGrid.89
 # text = oan te jaan mar ek sy reitsje beheind yn hun mooglikheden
 # speaker = fr/male/sp0196m
@@ -1253,6 +1341,7 @@
 10	hun	_	PRON	_	_	11	nmod:poss	_	Lang=nl
 11	mooglikheden	_	NOUN	_	_	7	obl	_	Lang=fy
 
+# newdoc id = train_1991_marzje_2006
 # sent_id = train_1991_marzje_2006.TextGrid.90
 # text = foar de schoolartsen fan de verschillende G G D'en yn Fryslân
 # speaker = fr/female/sp0056f
@@ -1269,6 +1358,7 @@
 10	yn	_	ADP	_	_	11	case	_	Lang=fy
 11	Fryslân	_	PROPN	_	_	7	nmod	_	Lang=fy
 
+# newdoc id = train_2010_rec_4488
 # sent_id = train_2010_rec_4488.TextGrid.91
 # text = eh dêr seit eh de Raad van State wol wat oer eh
 # speaker = fr/male/sp0109m
@@ -1286,6 +1376,7 @@
 11	oer	_	ADP	_	_	10	case	_	Lang=fy
 12	eh	_	INTJ	_	_	3	discourse	_	Lang=fy
 
+# newdoc id = train_2002_omniumkollumjohanvanderzee_7995
 # sent_id = train_2002_omniumkollumjohanvanderzee_7995.TextGrid.92
 # text = sa neamde Fons de Poel de speurtocht nei de grutste held fan twa tûzen twa
 # speaker = fr/male/sp0209m
@@ -1306,6 +1397,7 @@
 14	tûzen	_	NUM	_	_	13	compound	_	Lang=fy
 15	twa	_	NUM	_	_	14	compound	_	Lang=fy
 
+# newdoc id = devel_1990_gong_0410
 # sent_id = devel_1990_gong_0410.TextGrid.93
 # text = dat is de saneamde earste lijn
 # speaker = fr/female/sp0030f
@@ -1317,6 +1409,7 @@
 5	earste	_	ADJ	_	_	6	amod	_	Lang=fy
 6	lijn	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1998_tinkwize_3199
 # sent_id = train_1998_tinkwize_3199.TextGrid.94
 # text = is dat puur eh tsjerkhistoarje wat je besjen wolle
 # speaker = fr/male/sp0097m
@@ -1331,6 +1424,7 @@
 8	besjen	_	VERB	_	_	5	acl	_	Lang=fy
 9	wolle	_	AUX	_	_	8	aux	_	Lang=fy
 
+# newdoc id = train_1981_kultuerliteratuur_17622
 # sent_id = train_1981_kultuerliteratuur_17622.TextGrid.95
 # text = welk wurk fan de Akademy tinke jo eh bliuwt no aansens eigenlik wat lizzen
 # speaker = fr/male/sp0037m
@@ -1350,6 +1444,7 @@
 13	wat	_	ADV	_	_	14	advmod	_	Lang=fy
 14	lizzen	_	VERB	_	_	9	xcomp	_	Lang=fy
 
+# newdoc id = train_2014_burodevries_16693
 # sent_id = train_2014_burodevries_16693.TextGrid.96
 # text = kamen alle Seisbierrumers libben út Indië werom
 # speaker = fr/male/sp0348m
@@ -1362,6 +1457,7 @@
 6	Indië	_	PROPN	_	_	1	obl	_	Lang=nl
 7	werom	_	ADV	_	_	1	advmod	_	Lang=fy
 
+# newdoc id = train_1987_twageneraasjes_7318
 # sent_id = train_1987_twageneraasjes_7318.TextGrid.97
 # text = dêr't De Vos senior no al mear as fjirtich jier lang simmerfakânsje hâldt
 # speaker = fr/male/sp0044m
@@ -1380,6 +1476,7 @@
 12	simmerfakânsje	_	NOUN	_	_	13	obj	_	Lang=fy
 13	hâldt	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14040
 # sent_id = train_2015_burodevrieslido_14040.TextGrid.98
 # text = reedlik yn orde wer werom kaam dus eh
 # speaker = fr/female/sp0296f
@@ -1393,6 +1490,7 @@
 7	dus	_	CCONJ	_	_	6	discourse	_	Lang=fy
 8	eh	_	INTJ	_	_	6	discourse	_	Lang=fy
 
+# newdoc id = train_2010_kultuer_4620
 # sent_id = train_2010_kultuer_4620.TextGrid.99
 # text = en ik fyn it just eh interessant om dy lytse dingen te eh wer te beljochtsjen
 # speaker = fr/female/sp0133f
@@ -1414,6 +1512,7 @@
 15	te	_	ADP	_	_	16	mark	_	Lang=fy
 16	beljochtsjen	_	VERB	_	_	3	ccomp	_	Lang=fy
 
+# newdoc id = train_1986_rekreaasje_1399
 # sent_id = train_1986_rekreaasje_1399.TextGrid.100
 # text = dy wisten presys oan de hân fan in nummer fan dat perseel
 # speaker = fr/male/sp0043m
@@ -1431,6 +1530,7 @@
 11	dat	_	DET	_	_	12	det	_	Lang=fy
 12	perseel	_	NOUN	_	_	9	nmod	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7280
 # sent_id = train_1986_sunenssoarch_7280.TextGrid.101
 # text = eh mei maligniteiten mei foarmen fan kanker lizze dan
 # speaker = fr/male/sp0196m
@@ -1445,6 +1545,7 @@
 8	lizze	_	VERB	_	_	0	root	_	Lang=fy
 9	dan	_	SCONJ	_	_	8	discourse	_	Lang=fy
 
+# newdoc id = train_1990_depauw_1855
 # sent_id = train_1990_depauw_1855.TextGrid.102
 # text = fan it Fries Orkest
 # speaker = fr/female/sp0030f
@@ -1454,6 +1555,7 @@
 3	Fries	_	PROPN	_	_	0	root	_	Lang=nl
 4	Orkest	_	PROPN	_	_	3	appos	_	Lang=nl
 
+# newdoc id = train_1993_streekkultuerealahuzen_11105
 # sent_id = train_1993_streekkultuerealahuzen_11105.TextGrid.103
 # text = stimd het onder anderen ek yn Harich want
 # speaker = fr/male/sp0043m
@@ -1467,6 +1569,7 @@
 7	Harich	_	PROPN	_	_	1	obl	_	Lang=fy
 8	want	_	CCONJ	_	_	1	orphan	_	Lang=fy
 
+# newdoc id = train_1992_marzje_2316
 # sent_id = train_1992_marzje_2316.TextGrid.104
 # text = it ûntstean fan de Regionale Oprop hat alles te meitsjen mei de chaotische tiid
 # speaker = fr/female/sp0030f
@@ -1486,6 +1589,7 @@
 13	chaotische	_	ADJ	_	_	14	amod	_	Lang=nl
 14	tiid	_	NOUN	_	_	10	obl:tmod	_	Lang=fy
 
+# newdoc id = train_2010_burodevries_10715
 # sent_id = train_2010_burodevries_10715.TextGrid.105
 # text = niks gjin eh
 # speaker = fr/female/sp0243f
@@ -1494,6 +1598,7 @@
 2	gjin	_	PRON	_	_	0	root	_	Lang=fy
 3	eh	_	INTJ	_	_	2	discourse	_	Lang=fy
 
+# newdoc id = train_1998_tinkwize_3244
 # sent_id = train_1998_tinkwize_3244.TextGrid.106
 # text = it is in eh gebou út de sechtjinde eeuw
 # speaker = fr/male/sp0098m
@@ -1508,6 +1613,7 @@
 8	sechtjinde	_	NUM	_	_	9	nummod	_	Lang=fy
 9	eeuw	_	NOUN	_	_	5	nmod	_	Lang=nl
 
+# newdoc id = train_1994_gong_2626
 # sent_id = train_1994_gong_2626.TextGrid.107
 # text = oer it kistjagen yn de Workumerwaard
 # speaker = fr/female/sp0055f
@@ -1519,6 +1625,7 @@
 5	de	_	DET	_	_	6	det	_	Lang=fy
 6	Workumerwaard	_	PROPN	_	_	3	obl	_	Lang=nl
 
+# newdoc id = train_2008_omnium_11870
 # sent_id = train_2008_omnium_11870.TextGrid.108
 # text = kin ek by volwassenen mar faak binne it bern
 # speaker = fr/female/sp0257f
@@ -1533,6 +1640,7 @@
 8	it	_	DET	_	_	9	det	_	Lang=fy
 9	bern	_	NOUN	_	_	1	conj	_	Lang=fy
 
+# newdoc id = train_2001_gongfansaken_17037
 # sent_id = train_2001_gongfansaken_17037.TextGrid.109
 # text = it instituut is bedoeld om eh
 # speaker = fr/male/sp0354m
@@ -1544,6 +1652,7 @@
 5	om	_	ADP	_	_	4	mark	_	Lang=fy
 6	eh	_	INTJ	_	_	4	discourse	_	Lang=fy
 
+# newdoc id = train_1968_sportkaatsen_12473
 # sent_id = train_1968_sportkaatsen_12473.TextGrid.110
 # text = hem en syn famke
 # speaker = fr/male/sp0267m
@@ -1553,6 +1662,7 @@
 3	syn	_	PRON	_	_	4	nmod:poss	_	Lang=fy
 4	famke	_	NOUN	_	_	1	conj	_	Lang=fy
 
+# newdoc id = train_1967_natoerenmiljeu_0504
 # sent_id = train_1967_natoerenmiljeu_0504.TextGrid.111
 # text = erelid van de Fryske Akademy
 # speaker = nl/male/sp0016m
@@ -1563,6 +1673,7 @@
 4	Fryske	_	PROPN	_	_	1	nmod	_	Lang=fy
 5	Akademy	_	PROPN	_	_	4	flat:name	_	Lang=fy
 
+# newdoc id = train_1990_boereaksjes_9967
 # sent_id = train_1990_boereaksjes_9967.TextGrid.112
 # text = ik hoop it al en sjuch it is no sa dat
 # speaker = fr/male/sp0228m
@@ -1579,6 +1690,7 @@
 10	sa	_	ADV	_	_	6	ccomp	_	Lang=fy
 11	dat	_	SCONJ	_	_	2	orphan	_	Lang=fy
 
+# newdoc id = train_2006_omniumhitehei_8388
 # sent_id = train_2006_omniumhitehei_8388.TextGrid.113
 # text = dy wat dat betreft ek mei de fûst op tafel slaan kin
 # speaker = fr/male/sp0213m
@@ -1596,6 +1708,7 @@
 11	slaan	_	VERB	_	_	0	root	_	Lang=fy
 12	kin	_	AUX	_	_	11	aux	_	Lang=fy
 
+# newdoc id = train_2010_kultuer_4670
 # sent_id = train_2010_kultuer_4670.TextGrid.114
 # text = ja sinds sinds foarich jier toen he ik eh eksposeard yn eh
 # speaker = fr/female/sp0133f
@@ -1613,6 +1726,7 @@
 11	yn	_	ADP	_	_	10	orphan	_	Lang=fy
 12	eh	_	INTJ	_	_	10	discourse	_	Lang=fy
 
+# newdoc id = train_1994_sportreedriden_2715
 # sent_id = train_1994_sportreedriden_2715.TextGrid.115
 # text = nei eh De Haan jo binne der noch
 # speaker = fr/male/sp0037m
@@ -1626,6 +1740,7 @@
 7	der	_	PRON	_	_	6	expl	_	Lang=fy
 8	noch	_	ADV	_	_	6	advmod	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14122
 # sent_id = train_2015_burodevrieslido_14122.TextGrid.116
 # text = en toen eh ja hearde ik volgens my dat oare famkes
 # speaker = fr/female/sp0296f
@@ -1642,6 +1757,7 @@
 10	oare	_	ADJ	_	_	11	amod	_	Lang=fy
 11	famkes	_	NOUN	_	_	5	ccomp	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15620
 # sent_id = train_1978_reportaazje_15620.TextGrid.117
 # text = en dy gong hjir het fjild yn
 # speaker = fr/male/sp0327m
@@ -1654,6 +1770,7 @@
 6	fjild	_	NOUN	_	_	3	obl	_	Lang=fy
 7	yn	_	ADP	_	_	6	case	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17210
 # sent_id = train_2002_gongfansaken_17210.TextGrid.118
 # text = eh rinne je steeds mear ek tsjin oare fragen op en dat hat ek wol
 # speaker = fr/male/sp0355m
@@ -1674,6 +1791,7 @@
 14	ek	_	ADV	_	_	13	advmod	_	Lang=fy
 15	wol	_	ADV	_	_	13	advmod	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14017
 # sent_id = train_2015_burodevrieslido_14017.TextGrid.119
 # text = sa erg dus dy tinke nei in pear jier wol fan eh bekijk het maar
 # speaker = fr/female/sp0296f
@@ -1694,6 +1812,7 @@
 14	het	_	PRON	_	_	13	expl	_	Lang=nl
 15	maar	_	ADV	_	_	13	advmod	_	Lang=nl
 
+# newdoc id = train_2011_burodevries_16854
 # sent_id = train_2011_burodevries_16854.TextGrid.120
 # text = wurdt in sylskip mei helpmotor kocht de Prins Hendrik
 # speaker = fr/male/sp0349m
@@ -1708,6 +1827,7 @@
 8	Prins	_	PROPN	_	_	3	appos	_	Lang=nl
 9	Hendrik	_	PROPN	_	_	8	flat:name	_	Lang=nl
 
+# newdoc id = test_2008_kultuer_1302
 # sent_id = test_2008_kultuer_1302.TextGrid.121
 # text = en wy binne grensverleggend
 # speaker = fr/male/sp0443m
@@ -1717,6 +1837,7 @@
 3	binne	_	AUX	_	_	4	cop	_	Lang=fy
 4	grensverleggend	_	ADJ	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1987_butenlanners_7530
 # sent_id = train_1987_butenlanners_7530.TextGrid.122
 # text = en toen bin ik yn eh
 # speaker = fr/male/sp0201m
@@ -1728,6 +1849,7 @@
 5	yn	_	ADP	_	_	3	case	_	Lang=fy
 6	eh	_	INTJ	_	_	3	discourse	_	Lang=fy
 
+# newdoc id = train_1989_tinkwize_1691
 # sent_id = train_1989_tinkwize_1691.TextGrid.123
 # text = docht bliken hoe't men tocht oer de komst fan Hoedemaker nei Nijlân
 # speaker = fr/female/sp0049f
@@ -1745,6 +1867,7 @@
 11	nei	_	ADP	_	_	12	case	_	Lang=fy
 12	Nijlân	_	PROPN	_	_	10	appos	_	Lang=fy
 
+# newdoc id = train_1977_socialezakenenwerkgelegenheid_12635
 # sent_id = train_1977_socialezakenenwerkgelegenheid_12635.TextGrid.124
 # text = nou nee net
 # speaker = nl/male/sp0273m
@@ -1753,6 +1876,7 @@
 2	nee	_	INTJ	_	_	3	discourse	_	Lang=nl
 3	net	_	ADV	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2006_omniumhitehei_8373
 # sent_id = train_2006_omniumhitehei_8373.TextGrid.125
 # text = no we hienen it oer in oar ûnderwerp dan het ûnderwerp
 # speaker = fr/male/sp0213m
@@ -1769,6 +1893,7 @@
 10	het	_	DET	_	_	11	det	_	Lang=nl
 11	ûnderwerp	_	NOUN	_	_	8	nmod	_	Lang=fy
 
+# newdoc id = train_2002_omniumkollumjohanvanderzee_8029
 # sent_id = train_2002_omniumkollumjohanvanderzee_8029.TextGrid.126
 # text = heiligen van de laatste dagen soenen jo sizze kinne
 # speaker = fr/male/sp0209m
@@ -1783,6 +1908,7 @@
 8	sizze	_	VERB	_	_	0	root	_	Lang=fy
 9	kinne	_	AUX	_	_	8	aux	_	Lang=fy
 
+# newdoc id = train_2011_buro_4764
 # sent_id = train_2011_buro_4764.TextGrid.127
 # text = se krigen hun eh hun hun plak wêr't se wêr't se wêze moasten
 # speaker = fr/male/sp0135m
@@ -1801,6 +1927,7 @@
 12	wêze	_	VERB	_	_	2	advcl	_	Lang=fy
 13	moasten	_	AUX	_	_	12	aux	_	Lang=fy
 
+# newdoc id = train_1991_marzje_2009
 # sent_id = train_1991_marzje_2009.TextGrid.128
 # text = bijschoold hjir eh hjiryn
 # speaker = fr/female/sp0056f
@@ -1810,6 +1937,7 @@
 3	eh	_	INTJ	_	_	4	discourse	_	Lang=fy
 4	hjiryn	_	ADV	_	_	1	advmod	_	Lang=fy
 
+# newdoc id = train_2010_kultuer_4671
 # sent_id = train_2010_kultuer_4671.TextGrid.129
 # text = museum Willem van Haren yn Heerenveen
 # speaker = fr/female/sp0133f
@@ -1821,6 +1949,7 @@
 5	yn	_	ADP	_	_	6	case	_	Lang=fy
 6	Heerenveen	_	PROPN	_	_	1	nmod	_	Lang=nl
 
+# newdoc id = test_1968_plakkenfryslanterhorne_2088
 # sent_id = test_1968_plakkenfryslanterhorne_2088.TextGrid.130
 # text = Harm de Wilde in man dy't in
 # speaker = fr/male/sp0001m
@@ -1833,6 +1962,7 @@
 6	dy't	_	PRON	_	_	1	orphan	_	Lang=fy
 7	in	_	DET	_	_	1	orphan	_	Lang=fy
 
+# newdoc id = train_1980_aldjiersprogramma_9759
 # sent_id = train_1980_aldjiersprogramma_9759.TextGrid.131
 # text = hokker offisjele funksje hat doctor de Vries no noch
 # speaker = fr/female/sp0030f
@@ -1847,6 +1977,7 @@
 8	no	_	ADV	_	_	4	advmod	_	Lang=fy
 9	noch	_	ADV	_	_	4	advmod	_	Lang=fy
 
+# newdoc id = test_2000_itfjildyn_0954
 # sent_id = test_2000_itfjildyn_0954.TextGrid.132
 # text = no in eh buizerd achter op de peal
 # speaker = fr/male/sp0438m
@@ -1860,6 +1991,7 @@
 7	de	_	DET	_	_	8	det	_	Lang=fy
 8	peal	_	NOUN	_	_	4	nmod	_	Lang=fy
 
+# newdoc id = train_1974_aktualiteiten_17337
 # sent_id = train_1974_aktualiteiten_17337.TextGrid.133
 # text = vereniging dy is boppe de spoorlijn Ljouwert
 # speaker = fr/male/sp0314m
@@ -1872,6 +2004,7 @@
 6	spoorlijn	_	NOUN	_	_	3	obl	_	Lang=nl
 7	Ljouwert	_	PROPN	_	_	6	appos	_	Lang=fy
 
+# newdoc id = train_1966_aldjiersjunkabaret_18294
 # sent_id = train_1966_aldjiersjunkabaret_18294.TextGrid.134
 # text = as Haskerdiken aanst Heerenveen-noord wurdt
 # speaker = fr/female/sp0266f
@@ -1882,6 +2015,7 @@
 4	Heerenveen-noord	_	PROPN	_	_	5	obj	_	Lang=nl
 5	wurdt	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2001_gongfansaken_17029
 # sent_id = train_2001_gongfansaken_17029.TextGrid.135
 # text = en as byfak hat er oan it Semitysk instituut yn Kampen ek Arabysk leard
 # speaker = fr/male/sp0052m
@@ -1901,6 +2035,7 @@
 13	Arabysk	_	PROPN	_	_	14	obj	_	Lang=fy
 14	leard	_	VERB	_	_	3	acl	_	Lang=fy
 
+# newdoc id = train_2013_omnium_18474
 # sent_id = train_2013_omnium_18474.TextGrid.136
 # text = it jout helemaal niks
 # speaker = fr/male/sp0374m
@@ -1910,6 +2045,7 @@
 3	helemaal	_	ADV	_	_	4	amod	_	Lang=nl
 4	niks	_	PRON	_	_	2	obj	_	Lang=nl
 
+# newdoc id = train_2015_burodevrieslido_14169
 # sent_id = train_2015_burodevrieslido_14169.TextGrid.137
 # text = no ja dat is it interessante wat je dogge en dan
 # speaker = fr/female/sp0296f
@@ -1926,6 +2062,7 @@
 10	en	_	CCONJ	_	_	9	orphan	_	Lang=fy
 11	dan	_	SCONJ	_	_	9	orphan	_	Lang=fy
 
+# newdoc id = train_2001_omnium_18554
 # sent_id = train_2001_omnium_18554.TextGrid.138
 # text = middeis komt de Ljouwerter jûns komt de N R C Handelblad
 # speaker = fr/male/sp0375m
@@ -1942,6 +2079,7 @@
 10	C	_	PROPN	_	_	8	flat:name	_	Lang=fy
 11	Handelblad	_	PROPN	_	_	8	flat:name	_	Lang=nl
 
+# newdoc id = train_2006_omniumhitehei_8440
 # sent_id = train_2006_omniumhitehei_8440.TextGrid.139
 # text = mar ja dan moet er wol bliuwe op it staatssecretariaat wêr't er no sit
 # speaker = fr/male/sp0213m
@@ -1961,6 +2099,7 @@
 13	no	_	ADV	_	_	14	advmod	_	Lang=fy
 14	sit	_	VERB	_	_	10	acl	_	Lang=fy
 
+# newdoc id = train_2014_buro_5277
 # sent_id = train_2014_buro_5277.TextGrid.140
 # text = Jelte Veldstra is hun eh hoe hjit dat ek alwer
 # speaker = fr/female/sp0144f
@@ -1976,6 +2115,7 @@
 9	ek	_	ADV	_	_	7	advmod	_	Lang=fy
 10	alwer	_	ADV	_	_	7	advmod	_	Lang=fy
 
+# newdoc id = train_1996_dekoperentun_13684
 # sent_id = train_1996_dekoperentun_13684.TextGrid.141
 # text = en dat iemand wat seit yn it krinkje
 # speaker = fr/male/sp0093m
@@ -1989,6 +2129,7 @@
 7	it	_	DET	_	_	8	det	_	Lang=fy
 8	krinkje	_	NOUN	_	_	5	obl	_	Lang=fy
 
+# newdoc id = train_2014_buro_5350
 # sent_id = train_2014_buro_5350.TextGrid.142
 # text = even in stoomkursus padvinderij
 # speaker = fr/female/sp0126f
@@ -1998,6 +2139,7 @@
 3	stoomkursus	_	NOUN	_	_	0	root	_	Lang=fy
 4	padvinderij	_	NOUN	_	_	3	nmod	_	Lang=nl
 
+# newdoc id = test_2000_itfjildyn_0922
 # sent_id = test_2000_itfjildyn_0922.TextGrid.143
 # text = en eh eh syn pijlpunten
 # speaker = fr/male/sp0438m
@@ -2008,6 +2150,7 @@
 4	syn	_	PRON	_	_	5	nmod:poss	_	Lang=fy
 5	pijlpunten	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2010_kultuer_4676
 # sent_id = train_2010_kultuer_4676.TextGrid.144
 # text = vroeger eh ja eh wie wie ik der soms ek net helemaal tefreden oer en
 # speaker = fr/female/sp0133f
@@ -2028,6 +2171,7 @@
 14	oer	_	ADP	_	_	13	case	_	Lang=fy
 15	en	_	CCONJ	_	_	13	orphan	_	Lang=fy
 
+# newdoc id = train_2014_burodevriesdoku_10465
 # sent_id = train_2014_burodevriesdoku_10465.TextGrid.145
 # text = leesbevorderingsprojecten dat soart dingen is allegear prachtich en sa mar ja úteinlik
 # speaker = fr/male/sp0233m
@@ -2045,6 +2189,7 @@
 11	ja	_	INTJ	_	_	10	fixed	_	Lang=fy
 12	úteinlik	_	ADJ	_	_	7	discourse	_	Lang=fy
 
+# newdoc id = train_1976_nijsgjirrige_0976
 # sent_id = train_1976_nijsgjirrige_0976.TextGrid.146
 # text = mar sjuch dêrtroch hâlde jo it ek sa zuiver
 # speaker = fr/male/sp0031m
@@ -2059,6 +2204,7 @@
 8	sa	_	ADV	_	_	9	advmod	_	Lang=fy
 9	zuiver	_	ADJ	_	_	4	obl	_	Lang=nl
 
+# newdoc id = train_1967_kultuerterschelling_18819
 # sent_id = train_1967_kultuerterschelling_18819.TextGrid.147
 # text = dy't oan auto's stean te lûken en te skuorren
 # speaker = fr/female/sp0083f
@@ -2073,6 +2219,7 @@
 8	te	_	ADP	_	_	9	mark	_	Lang=fy
 9	skuorren	_	VERB	_	_	6	conj	_	Lang=fy
 
+# newdoc id = train_1971_buter_5831
 # sent_id = train_1971_buter_5831.TextGrid.148
 # text = fierdere studie dy't dan faak op jûnsstudie delkomt
 # speaker = fr/male/sp0160m
@@ -2086,6 +2233,7 @@
 7	jûnsstudie	_	NOUN	_	_	8	obl	_	Lang=fy-nl
 8	delkomt	_	VERB	_	_	2	acl	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7238
 # sent_id = train_1986_sunenssoarch_7238.TextGrid.149
 # text = eh om dy it spuiten te learen no dat is eigenlik gjin tiid mear foar
 # speaker = fr/female/sp0194f
@@ -2106,6 +2254,7 @@
 14	mear	_	ADV	_	_	15	advmod	_	Lang=fy
 15	foar	_	ADV	_	_	7	advcl	_	Lang=fy
 
+# newdoc id = train_2004_omniumrigeslachtebewenner_8307
 # sent_id = train_2004_omniumrigeslachtebewenner_8307.TextGrid.150
 # text = dus wat dat betreft kin it eh miskien noch wolris ja
 # speaker = fr/male/sp0211m
@@ -2122,6 +2271,7 @@
 10	wolris	_	ADV	_	_	5	advmod	_	Lang=fy
 11	ja	_	INTJ	_	_	5	discourse	_	Lang=fy
 
+# newdoc id = train_1987_steateferkiezings_13256
 # sent_id = train_1987_steateferkiezings_13256.TextGrid.501
 # text = toen men tsien procent fan de stemmen hie
 # speaker = fr/male/sp0288m
@@ -2135,6 +2285,7 @@
 7	stemmen	_	NOUN	_	_	8	obj	_	Lang=fy
 8	hie	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2008_omnium_11815
 # sent_id = train_2008_omnium_11815.TextGrid.502
 # text = ik lear dyn hersenen wat ôf en ik lear dyn hersenen wat oan
 # speaker = fr/female/sp0257f
@@ -2153,6 +2304,7 @@
 12	wat	_	PRON	_	_	9	obj	_	Lang=fy
 13	oan	_	ADP	_	_	9	compound:prt	_	Lang=fy
 
+# newdoc id = train_2010_rec_4465
 # sent_id = train_2010_rec_4465.TextGrid.503
 # text = oan bygelyks de fersprieding fan eh fersmoarge loft eh troch dy oven
 # speaker = fr/male/sp0109m
@@ -2170,6 +2322,7 @@
 11	dy	_	DET	_	_	12	det	_	Lang=fy
 12	oven	_	NOUN	_	_	8	obl	_	Lang=nl
 
+# newdoc id = train_1986_sunenssoarch_7218
 # sent_id = train_1986_sunenssoarch_7218.TextGrid.504
 # text = want dan he je it toch te drok fan och heden
 # speaker = fr/female/sp0193f
@@ -2186,6 +2339,7 @@
 10	och	_	INTJ	_	_	3	discourse	_	Lang=fy
 11	heden	_	NOUN	_	_	10	fixed	_	Lang=fy
 
+# newdoc id = test_1975_landbouw_1609
 # sent_id = test_1975_landbouw_1609.TextGrid.505
 # text = wat bedoele jo mei de wonderboeren út Fryslân
 # speaker = fr/male/sp0005m
@@ -2199,6 +2353,7 @@
 7	út	_	ADP	_	_	8	case	_	Lang=fy
 8	Fryslân	_	PROPN	_	_	6	nmod	_	Lang=fy
 
+# newdoc id = train_1998_tinkwize_3133
 # sent_id = train_1998_tinkwize_3133.TextGrid.506
 # text = dy't fan hegere gebieden bijvoorbeeld út Drinte wei hjir kamen te wenjen
 # speaker = fr/female/sp0096f
@@ -2216,6 +2371,7 @@
 11	te	_	ADP	_	_	12	mark	_	Lang=fy
 12	wenjen	_	VERB	_	_	10	xcomp	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14413
 # sent_id = train_2005_omnium_14413.TextGrid.507
 # text = moarns as ik út de tent kom dan dan dan wit ik dat ik eh
 # speaker = fr/male/sp0306m
@@ -2236,6 +2392,7 @@
 14	ik	_	PRON	_	_	13	nsubj	_	Lang=fy
 15	eh	_	INTJ	_	_	11	discourse	_	Lang=fy
 
+# newdoc id = test_2001_gong_0999
 # sent_id = test_2001_gong_0999.TextGrid.508
 # text = dat is moeilijk te realisearen
 # speaker = fr/male/sp0439m
@@ -2246,6 +2403,7 @@
 4	te	_	ADP	_	_	5	mark	_	Lang=fy
 5	realisearen	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1980_kultuerregionaleomrop_17360
 # sent_id = train_1980_kultuerregionaleomrop_17360.TextGrid.509
 # text = deze voor ons Radio Fryslân zo belangrijke uitbreiding van ons gebouw te openen
 # speaker = nl/male/sp0358m
@@ -2264,6 +2422,7 @@
 12	te	_	ADP	_	_	13	mark	_	Lang=nl
 13	openen	_	VERB	_	_	8	acl	_	Lang=nl
 
+# newdoc id = train_1991_gribusharkspullen_2135
 # sent_id = train_1991_gribusharkspullen_2135.TextGrid.510
 # text = it is vast in brandweerauto
 # speaker = fr/child/sp0061c
@@ -2274,6 +2433,7 @@
 4	in	_	DET	_	_	5	det	_	Lang=fy
 5	brandweerauto	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2011_burodevries_16766
 # sent_id = train_2011_burodevries_16766.TextGrid.511
 # text = yn de roef fan syn skûtsje de dankbaarheid
 # speaker = fr/male/sp0349m
@@ -2287,6 +2447,7 @@
 7	de	_	DET	_	_	6	appos	_	Lang=fy
 8	dankbaarheid	_	PROPN	_	_	7	flat:name	_	Lang=nl
 
+# newdoc id = train_1990_depauw_1931
 # sent_id = train_1990_depauw_1931.TextGrid.512
 # text = eh oan it voetballen begûn by de damesvoetbal
 # speaker = fr/female/sp0054f
@@ -2300,6 +2461,7 @@
 7	de	_	DET	_	_	8	det	_	Lang=fy
 8	damesvoetbal	_	NOUN	_	_	5	obl	_	Lang=nl
 
+# newdoc id = train_1984_sammelban_18670
 # sent_id = train_1984_sammelban_18670.TextGrid.513
 # text = is it jongerencentrum
 # speaker = fr/male/sp0253m
@@ -2310,6 +2472,7 @@
 2	it	_	DET	_	_	3	det	_	Lang=fy
 3	jongerencentrum	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1987_butenlanners_7556
 # sent_id = train_1987_butenlanners_7556.TextGrid.514
 # text = wat in bytsje bûten de taal leit mar toch de taal holpen hat eh doe eh
 # speaker = fr/male/sp0201m
@@ -2331,6 +2494,7 @@
 15	doe	_	ADV	_	_	12	advmod	_	Lang=fy
 16	eh	_	INTJ	_	_	12	discourse	_	Lang=fy
 
+# newdoc id = train_1977_lanbouenfiskerij_1155
 # sent_id = train_1977_lanbouenfiskerij_1155.TextGrid.515
 # text = ferbûn oan it Instituut voor Pluimveeonderzoek it Spelderholt yn Beekbergen
 # speaker = fr/male/sp0037m
@@ -2346,6 +2510,7 @@
 9	yn	_	ADP	_	_	10	case	_	Lang=fy
 10	Beekbergen	_	PROPN	_	_	4	nmod	_	Lang=fy
 
+# newdoc id = train_1971_skutsjesilen_5787
 # sent_id = train_1971_skutsjesilen_5787.TextGrid.516
 # text = in konstante race waard fearn troch Lodewyk Meeter dy't rondenlang op it njoggende plak trochkaam
 # speaker = fr/male/sp0001m
@@ -2366,6 +2531,7 @@
 14	plak	_	NOUN	_	_	15	obl	_	Lang=fy
 15	trochkaam	_	VERB	_	_	5	acl	_	Lang=fy
 
+# newdoc id = train_2011_burodevries_16851
 # sent_id = train_2011_burodevries_16851.TextGrid.517
 # text = mei it onafhankelijk onderwijsfonds voor de binnenvaart
 # speaker = fr/male/sp0349m
@@ -2378,6 +2544,7 @@
 6	de	_	DET	_	_	7	det	_	Lang=nl
 7	binnenvaart	_	NOUN	_	_	4	nmod	_	Lang=nl
 
+# newdoc id = train_1969_underwiis_0884
 # sent_id = train_1969_underwiis_0884.TextGrid.518
 # text = moeilijk oplost wurdt
 # speaker = fr/male/sp0024m
@@ -2386,6 +2553,7 @@
 2	oplost	_	VERB	_	_	0	root	_	Lang=fy
 3	wurdt	_	AUX	_	_	2	aux:pass	_	Lang=fy
 
+# newdoc id = train_1971_skutsjesilen_5745
 # sent_id = train_1971_skutsjesilen_5745.TextGrid.519
 # text = en dat wie de út de achterhoede wei opkommen kampioenskandidaat Jan fan Akker
 # speaker = fr/male/sp0001m
@@ -2404,6 +2572,7 @@
 12	fan	_	PROPN	_	_	11	flat:name	_	Lang=fy
 13	Akker	_	PROPN	_	_	11	flat:name	_	Lang=nl
 
+# newdoc id = test_1990_wapenfanfryslan_0447
 # sent_id = test_1990_wapenfanfryslan_0447.TextGrid.520
 # text = hoe dan ek jonges dy moties dy eh dy moatte der trochkomme en
 # speaker = fr/male/sp0037m
@@ -2422,6 +2591,7 @@
 12	trochkomme	_	VERB	_	_	0	root	_	Lang=fy
 13	en	_	CCONJ	_	_	12	orphan	_	Lang=fy
 
+# newdoc id = train_1971_friesprogramma_9659
 # sent_id = train_1971_friesprogramma_9659.TextGrid.521
 # text = dat betrof allinnich de eksamens foar de harmony en fanfarekant
 # speaker = fr/male/sp0222m
@@ -2437,6 +2607,7 @@
 9	en	_	CCONJ	_	_	10	cc	_	Lang=fy
 10	fanfarekant	_	NOUN	_	_	8	conj	_	Lang=fy
 
+# newdoc id = train_1966_toaniel_0398
 # sent_id = train_1966_toaniel_0398.TextGrid.522
 # text = in grut bos blommen yn de hân en in nije jûpe oan
 # speaker = fr/female/sp0013f
@@ -2454,6 +2625,7 @@
 11	jûpe	_	NOUN	_	_	3	conj	_	Lang=fy
 12	oan	_	ADP	_	_	11	case	_	Lang=fy
 
+# newdoc id = train_2014_burodevriesdoku_10482
 # sent_id = train_2014_burodevriesdoku_10482.TextGrid.523
 # text = hun miening klear en ik bin wat mear eh beskouwend sis mar eh
 # speaker = fr/male/sp0233m
@@ -2472,6 +2644,7 @@
 12	mar	_	ADV	_	_	11	fixed	_	Lang=fy
 13	eh	_	INTJ	_	_	10	discourse	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15628
 # sent_id = train_1978_reportaazje_15628.TextGrid.524
 # text = en we hienen zelf fyftich Drintske skiep
 # speaker = fr/male/sp0327m
@@ -2484,6 +2657,7 @@
 6	Drintske	_	ADJ	_	_	7	amod	_	Lang=fy
 7	skiep	_	NOUN	_	_	3	obj	_	Lang=fy
 
+# newdoc id = train_2006_omniumhitehei_8378
 # sent_id = train_2006_omniumhitehei_8378.TextGrid.525
 # text = en hy hie de stroopwafel ek noch klear stean dus eh
 # speaker = fr/male/sp0213m
@@ -2500,6 +2674,7 @@
 10	dus	_	CCONJ	_	_	9	orphan	_	Lang=fy
 11	eh	_	INTJ	_	_	9	discourse	_	Lang=fy
 
+# newdoc id = train_1980_aldjiersprogramma_9735
 # sent_id = train_1980_aldjiersprogramma_9735.TextGrid.526
 # text = Fedde Schurer
 # speaker = fr/male/sp0223m
@@ -2507,6 +2682,7 @@
 1	Fedde	_	PROPN	_	_	0	root	_	Lang=fy
 2	Schurer	_	PROPN	_	_	1	flat:name	_	Lang=nl
 
+# newdoc id = test_2005_omniumhjerstynriga_1853
 # sent_id = test_2005_omniumhjerstynriga_1853.TextGrid.527
 # text = hjoed dus hin ien febrewaris yn de Harmonie
 # speaker = fr/female/sp0055f
@@ -2520,6 +2696,7 @@
 7	de	_	DET	_	_	8	det	_	Lang=fy
 8	Harmonie	_	PROPN	_	_	5	nmod	_	Lang=nl
 
+# newdoc id = train_2000_sportriemervandervelde_7858
 # sent_id = train_2000_sportriemervandervelde_7858.TextGrid.528
 # text = benammen eh foarsitter eh Van Raaij dy hat eh oare plannen
 # speaker = fr/male/sp0207m
@@ -2536,6 +2713,7 @@
 10	oare	_	ADJ	_	_	11	amod	_	Lang=fy
 11	plannen	_	NOUN	_	_	8	obj	_	Lang=fy
 
+# newdoc id = train_1985_oarloch_7098
 # sent_id = train_1985_oarloch_7098.TextGrid.529
 # text = wienen ek in grut tal evakuees út it suden fan it lân en dan benammen út Limburg
 # speaker = fr/male/sp0044m
@@ -2558,6 +2736,7 @@
 16	út	_	ADP	_	_	17	case	_	Lang=fy
 17	Limburg	_	PROPN	_	_	9	conj	_	Lang=nl
 
+# newdoc id = train_1977_lanbouenfiskerij_1231
 # sent_id = train_1977_lanbouenfiskerij_1231.TextGrid.530
 # text = dan is it toch heel faak
 # speaker = fr/male/sp0039m
@@ -2569,6 +2748,7 @@
 5	heel	_	ADV	_	_	6	advmod	_	Lang=fy
 6	faak	_	ADJ	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1981_polityk_11258
 # sent_id = train_1981_polityk_11258.TextGrid.531
 # text = ja dat is wol de bedoeling se komme mei hun eigen spuit
 # speaker = fr/male/sp0252m
@@ -2586,6 +2766,7 @@
 11	eigen	_	ADJ	_	_	12	amod	_	Lang=fy
 12	spuit	_	NOUN	_	_	8	obl	_	Lang=fy
 
+# newdoc id = train_2010_burodevries_10703
 # sent_id = train_2010_burodevries_10703.TextGrid.532
 # text = dit binne toevallig Prada's
 # speaker = fr/male/sp0242m
@@ -2595,6 +2776,7 @@
 3	toevallig	_	ADJ	_	_	4	advmod	_	Lang=nl
 4	Prada's	_	PROPN	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_1978_skiednis_1862
 # sent_id = devel_1978_skiednis_1862.TextGrid.533
 # text = ien kear per wike dus nei Eindhoven
 # speaker = fr/male/sp0423m
@@ -2607,6 +2789,7 @@
 6	nei	_	ADP	_	_	7	case	_	Lang=fy
 7	Eindhoven	_	PROPN	_	_	2	obl	_	Lang=fy
 
+# newdoc id = train_1992_itreadeear_2207
 # sent_id = train_1992_itreadeear_2207.TextGrid.534
 # text = fan we leven in Nederland en
 # speaker = fr/male/sp0069m
@@ -2618,6 +2801,7 @@
 5	Nederland	_	PROPN	_	_	3	obl	_	Lang=nl
 6	en	_	CCONJ	_	_	3	orphan	_	Lang=fy
 
+# newdoc id = train_1971_friesprogramma_9697
 # sent_id = train_1971_friesprogramma_9697.TextGrid.535
 # text = de ek noch houten blaasynstruminten derby dwaan no dat kin dus helemaal net
 # speaker = fr/male/sp0222m
@@ -2636,6 +2820,7 @@
 12	helemaal	_	ADV	_	_	13	advmod	_	Lang=nl
 13	net	_	ADV	_	_	10	advmod	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15631
 # sent_id = train_1978_reportaazje_15631.TextGrid.536
 # text = mar mei inoarren koenen se dy scheper net betelje
 # speaker = fr/male/sp0327m
@@ -2650,6 +2835,7 @@
 8	net	_	ADV	_	_	9	advmod	_	Lang=fy
 9	betelje	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2137
 # sent_id = devel_2009_omniumhansdeboer_2137.TextGrid.537
 # text = want dan kinne se bijvoorbeeld opscholen noemen se dat
 # speaker = fr/male/sp0427m
@@ -2664,6 +2850,7 @@
 8	se	_	PRON	_	_	7	nsubj	_	Lang=fy
 9	dat	_	PRON	_	_	7	obj	_	Lang=fy
 
+# newdoc id = train_2004_hofstra_3725
 # sent_id = train_2004_hofstra_3725.TextGrid.538
 # text = dy stiet hjir foar it earst foar sa'n grut podium
 # speaker = fr/male/sp0109m
@@ -2679,6 +2866,7 @@
 9	grut	_	ADJ	_	_	10	amod	_	Lang=fy
 10	podium	_	NOUN	_	_	2	obl	_	Lang=nl
 
+# newdoc id = devel_2012_tjallingvandergoot_1571
 # sent_id = devel_2012_tjallingvandergoot_1571.TextGrid.539
 # text = in twatal stromingen sa't je wolle yn it strafrjocht
 # speaker = fr/male/sp0419m
@@ -2693,6 +2881,7 @@
 8	it	_	DET	_	_	9	det	_	Lang=fy
 9	strafrjocht	_	NOUN	_	_	6	obl	_	Lang=fy
 
+# newdoc id = devel_2012_tjallingvandergoot_1561
 # sent_id = devel_2012_tjallingvandergoot_1561.TextGrid.540
 # text = Islamitische schaamtecultuur fan de dieder
 # speaker = fr/male/sp0419m
@@ -2703,6 +2892,7 @@
 4	de	_	DET	_	_	5	det	_	Lang=fy
 5	dieder	_	NOUN	_	_	2	nmod	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15567
 # sent_id = train_1978_reportaazje_15567.TextGrid.541
 # text = dêr't yn syn jonge jierren njonkenlytsen troch de hearen Tonkes fan Hoogeveen
 # speaker = fr/male/sp0005m
@@ -2720,6 +2910,7 @@
 11	fan	_	ADP	_	_	12	case	_	Lang=fy
 12	Hoogeveen	_	PROPN	_	_	9	nmod	_	Lang=nl
 
+# newdoc id = train_1978_reportaazje_15619
 # sent_id = train_1978_reportaazje_15619.TextGrid.542
 # text = dy skiep dêr hiene we in in scheper op
 # speaker = fr/male/sp0327m
@@ -2734,6 +2925,7 @@
 8	scheper	_	NOUN	_	_	4	obj	_	Lang=nl
 9	op	_	ADP	_	_	4	compound:prt	_	Lang=fy
 
+# newdoc id = train_2001_gongfansaken_17098
 # sent_id = train_2001_gongfansaken_17098.TextGrid.543
 # text = ien foarbyld is eh Zulfikar Ali Bhutto bijvoorbeeld
 # speaker = fr/male/sp0354m
@@ -2747,6 +2939,7 @@
 7	Bhutto	_	PROPN	_	_	5	flat:name	_	Lang=other
 8	bijvoorbeeld	_	ADV	_	_	5	advmod	_	Lang=nl
 
+# newdoc id = train_1995_dekoperentun_13544
 # sent_id = train_1995_dekoperentun_13544.TextGrid.544
 # text = maar toen woe ik it net wurde want ik denk der sit gjin jild yn
 # speaker = nl/male/sp0293m
@@ -2767,6 +2960,7 @@
 14	jild	_	NOUN	_	_	12	nsubj	_	Lang=fy
 15	yn	_	ADP	_	_	11	compound:prt	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17175
 # sent_id = train_2002_gongfansaken_17175.TextGrid.545
 # text = no it wie my al gau dúdlik dat de pastory niks foar my wie
 # speaker = fr/male/sp0355m
@@ -2786,6 +2980,7 @@
 13	my	_	PRON	_	_	11	obl	_	Lang=fy
 14	wie	_	AUX	_	_	10	cop	_	Lang=fy
 
+# newdoc id = train_1972_romtlikeoardening_9503
 # sent_id = train_1972_romtlikeoardening_9503.TextGrid.546
 # text = Marten fan Kammen dy sil strak noch prate mei ingenieur Vlieger
 # speaker = fr/male/sp0000m
@@ -2802,6 +2997,7 @@
 10	ingenieur	_	NOUN	_	_	8	obl	_	Lang=nl
 11	Vlieger	_	PROPN	_	_	10	appos	_	Lang=nl
 
+# newdoc id = train_2008_burodevrieskultuer_14718
 # sent_id = train_2008_burodevrieskultuer_14718.TextGrid.547
 # text = ûnderskied te meitsjen wie je fertrouwe kinne en wie net
 # speaker = fr/male/sp0308m
@@ -2817,6 +3013,7 @@
 9	wie	_	PRON	_	_	7	conj	_	Lang=nl
 10	net	_	ADV	_	_	9	advmod	_	Lang=fy
 
+# newdoc id = train_1991_wapenfanfryslan_11169
 # sent_id = train_1991_wapenfanfryslan_11169.TextGrid.548
 # text = mar toen letter
 # speaker = fr/male/sp0248m
@@ -2825,6 +3022,7 @@
 2	toen	_	ADV	_	_	3	mark	_	Lang=nl
 3	letter	_	ADJ	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2008_omnium_11773
 # sent_id = train_2008_omnium_11773.TextGrid.549
 # text = is binne de hersenen net yn balans
 # speaker = fr/female/sp0257f
@@ -2837,6 +3035,7 @@
 6	yn	_	ADP	_	_	7	case	_	Lang=fy
 7	balans	_	NOUN	_	_	2	obj	_	Lang=nl
 
+# newdoc id = train_2008_burodevrieskultuer_14674
 # sent_id = train_2008_burodevrieskultuer_14674.TextGrid.550
 # text = no ja en al al dy jonges dy bliuwe star sitten
 # speaker = fr/male/sp0308m
@@ -2853,6 +3052,7 @@
 10	star	_	ADJ	_	_	11	advmod	_	Lang=nl
 11	sitten	_	VERB	_	_	9	xcomp	_	Lang=fy
 
+# newdoc id = train_1995_dekoperentun_13576
 # sent_id = train_1995_dekoperentun_13576.TextGrid.551
 # text = nee dat moat net moat net ik wist presys wat ik wol
 # speaker = nl/male/sp0293m
@@ -2870,6 +3070,7 @@
 11	ik	_	PRON	_	_	12	nsubj	_	Lang=fy
 12	wol	_	VERB	_	_	8	ccomp	_	Lang=fy
 
+# newdoc id = train_1991_marzje_2064
 # sent_id = train_1991_marzje_2064.TextGrid.552
 # text = se binne ek heel bang om te mislukken at se in opdracht útfiere moatte dy dy
 # speaker = fr/female/sp0056f
@@ -2891,6 +3092,7 @@
 15	dy	_	PRON	_	_	16	reparandum	_	Lang=fy
 16	dy	_	PRON	_	_	2	orphan	_	Lang=fy
 
+# newdoc id = train_2011_burodevries_16800
 # sent_id = train_2011_burodevries_16800.TextGrid.553
 # text = giene de skippersbern net of yn elts gefal net mei regelmaat nei skoalle
 # speaker = fr/male/sp0349m
@@ -2909,6 +3111,7 @@
 12	nei	_	ADP	_	_	13	case	_	Lang=fy
 13	skoalle	_	NOUN	_	_	1	obl	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7300
 # sent_id = train_1986_sunenssoarch_7300.TextGrid.554
 # text = ja en ik tink dat je dêrtroch dan toch
 # speaker = fr/male/sp0196m
@@ -2923,6 +3126,7 @@
 8	dan	_	ADV	_	_	9	advmod	_	Lang=fy
 9	toch	_	ADV	_	_	4	orphan	_	Lang=nl
 
+# newdoc id = train_2000_sportriemervandervelde_7871
 # sent_id = train_2000_sportriemervandervelde_7871.TextGrid.555
 # text = dat wie in hele goeie wedstryd
 # speaker = fr/male/sp0208m
@@ -2934,6 +3138,7 @@
 5	goeie	_	ADJ	_	_	6	amod	_	Lang=nl
 6	wedstryd	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1989_gong_1781
 # sent_id = train_1989_gong_1781.TextGrid.556
 # text = direkteur Frans Grommen
 # speaker = fr/female/sp0030f
@@ -2942,6 +3147,7 @@
 2	Frans	_	PROPN	_	_	1	appos	_	Lang=fy
 3	Grommen	_	PROPN	_	_	2	flat:name	_	Lang=nl
 
+# newdoc id = train_1994_aktua_16548
 # sent_id = train_1994_aktua_16548.TextGrid.557
 # text = ha je enig idee om alle wurkplakken noch te behâlden of
 # speaker = fr/male/sp0344m
@@ -2958,6 +3164,7 @@
 10	behâlden	_	VERB	_	_	4	acl	_	Lang=fy
 11	of	_	CCONJ	_	_	1	orphan	_	Lang=fy
 
+# newdoc id = train_1984_opeswalk_7003
 # sent_id = train_1984_opeswalk_7003.TextGrid.558
 # text = sy sille meikoarten dizze beafeart nei de hunebedden fan Drinte nochris oer dwaan
 # speaker = fr/male/sp0044m
@@ -2976,6 +3183,7 @@
 12	oer	_	ADP	_	_	13	compound:prt	_	Lang=fy
 13	dwaan	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17191
 # sent_id = train_2002_gongfansaken_17191.TextGrid.559
 # text = yn hun eigen libben
 # speaker = fr/male/sp0355m
@@ -2985,6 +3193,7 @@
 3	eigen	_	ADJ	_	_	4	amod	_	Lang=fy
 4	libben	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2012_omnium_16046
 # sent_id = train_2012_omnium_16046.TextGrid.560
 # text = toen dy dyk oanlein waard yn njoggentjin fiif en sechstich toen koenen we
 # speaker = fr/male/sp0335m
@@ -3003,6 +3212,7 @@
 12	koenen	_	VERB	_	_	4	advcl	_	Lang=fy
 13	we	_	PRON	_	_	12	nsubj	_	Lang=fy
 
+# newdoc id = devel_1992_marzje_0546
 # sent_id = devel_1992_marzje_0546.TextGrid.561
 # text = we wachtsje toch ôf
 # speaker = fr/female/sp0403f
@@ -3012,6 +3222,7 @@
 3	toch	_	ADV	_	_	2	advmod	_	Lang=nl
 4	ôf	_	ADP	_	_	2	compound:prt	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14116
 # sent_id = train_2015_burodevrieslido_14116.TextGrid.562
 # text = toen bin ik dus eigenlik op eh
 # speaker = fr/female/sp0296f
@@ -3024,6 +3235,7 @@
 6	op	_	ADP	_	_	2	case	_	Lang=fy
 7	eh	_	INTJ	_	_	2	discourse	_	Lang=fy
 
+# newdoc id = train_2006_omniumhitehei_8380
 # sent_id = train_2006_omniumhitehei_8380.TextGrid.563
 # text = wat it eh ferhaal yn de Volkskrant mar dat sil vast en seker noch wol even komme
 # speaker = fr/male/sp0213m
@@ -3046,6 +3258,7 @@
 16	even	_	ADV	_	_	17	advmod	_	Lang=fy
 17	komme	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1985_itreadeear_15756
 # sent_id = train_1985_itreadeear_15756.TextGrid.564
 # text = en eh dat mei natuerlik noait gean ten koste fan alles
 # speaker = fr/male/sp0330m
@@ -3062,6 +3275,7 @@
 10	fan	_	ADP	_	_	8	fixed	_	Lang=fy
 11	alles	_	PRON	_	_	7	obl	_	Lang=fy
 
+# newdoc id = train_1978_skiednis_13124
 # sent_id = train_1978_skiednis_13124.TextGrid.565
 # text = jo moatte ten earste prebearje
 # speaker = fr/male/sp0287m
@@ -3072,6 +3286,7 @@
 4	earste	_	ADJ	_	_	3	fixed	_	Lang=fy
 5	prebearje	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1990_boereaksjes_9899
 # sent_id = train_1990_boereaksjes_9899.TextGrid.566
 # text = ûnder druk fan de straat
 # speaker = fr/male/sp0052m
@@ -3082,6 +3297,7 @@
 4	de	_	DET	_	_	5	det	_	Lang=fy
 5	straat	_	NOUN	_	_	2	nmod	_	Lang=nl
 
+# newdoc id = train_2014_dutskearts_5504
 # sent_id = train_2014_dutskearts_5504.TextGrid.567
 # text = soms eh benne mensen heel erg wurch
 # speaker = nl/male/sp0154m
@@ -3094,6 +3310,7 @@
 6	erg	_	ADJ	_	_	7	advmod	_	Lang=nl
 7	wurch	_	ADJ	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_1998_jandegroot_0945
 # sent_id = devel_1998_jandegroot_0945.TextGrid.568
 # text = in onderzoek lit sjen dat dizze minsken lichaamlik sûn binne
 # speaker = fr/male/sp0410m
@@ -3109,6 +3326,7 @@
 9	sûn	_	ADJ	_	_	3	ccomp	_	Lang=fy
 10	binne	_	AUX	_	_	9	cop	_	Lang=fy
 
+# newdoc id = train_2006_omniumhitehei_8427
 # sent_id = train_2006_omniumhitehei_8427.TextGrid.569
 # text = dat we de boterham belegd krije
 # speaker = fr/male/sp0213m
@@ -3120,6 +3338,7 @@
 5	belegd	_	VERB	_	_	0	root	_	Lang=nl
 6	krije	_	VERB	_	_	5	ccomp	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7250
 # sent_id = train_1986_sunenssoarch_7250.TextGrid.570
 # text = ik fyn inderdaad dat de formatie eh ûntarikkend is
 # speaker = fr/male/sp0196m
@@ -3134,6 +3353,7 @@
 8	ûntarikkend	_	ADJ	_	_	2	ccomp	_	Lang=fy
 9	is	_	AUX	_	_	8	cop	_	Lang=fy
 
+# newdoc id = train_2006_omniumjankalma_8507
 # sent_id = train_2006_omniumjankalma_8507.TextGrid.571
 # text = mei in iPod yn de hannen sa'n eh sa'n M P drie speler
 # speaker = fr/male/sp0214m
@@ -3152,6 +3372,7 @@
 12	drie	_	NOUN	_	_	10	flat:name	_	Lang=nl
 13	speler	_	NOUN	_	_	10	nmod	_	Lang=nl
 
+# newdoc id = train_1987_butenlanners_7537
 # sent_id = train_1987_butenlanners_7537.TextGrid.572
 # text = ik hâld net fan bergen en fan bossen
 # speaker = fr/male/sp0201m
@@ -3165,6 +3386,7 @@
 7	fan	_	ADP	_	_	8	case	_	Lang=fy
 8	bossen	_	NOUN	_	_	5	conj	_	Lang=nl
 
+# newdoc id = train_2013_briankabbes_5110
 # sent_id = train_2013_briankabbes_5110.TextGrid.573
 # text = hy is namelijk altyd op syk nei wat nijs
 # speaker = fr/female/sp0137f
@@ -3179,6 +3401,7 @@
 8	wat	_	PRON	_	_	5	obl	_	Lang=fy
 9	nijs	_	NOUN	_	_	8	nmod	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17169
 # sent_id = train_2002_gongfansaken_17169.TextGrid.574
 # text = toen ik begûn te studearen wie my net helemaal dúdlik
 # speaker = fr/male/sp0355m
@@ -3194,6 +3417,7 @@
 9	helemaal	_	ADV	_	_	10	advmod	_	Lang=nl
 10	dúdlik	_	ADJ	_	_	3	advcl	_	Lang=fy
 
+# newdoc id = train_2011_omniumrepobuntebargen_9034
 # sent_id = train_2011_omniumrepobuntebargen_9034.TextGrid.575
 # text = ja ekonomysk sjoen ha wy allegear waardeloos fee
 # speaker = fr/male/sp0217m
@@ -3207,6 +3431,7 @@
 7	waardeloos	_	ADJ	_	_	8	amod	_	Lang=nl
 8	fee	_	NOUN	_	_	4	obj	_	Lang=fy
 
+# newdoc id = train_1990_depauw_1963
 # sent_id = train_1990_depauw_1963.TextGrid.576
 # text = ast ien kear sjochst datst datst dêr aanleg foar hest en dat dat it
 # speaker = fr/female/sp0054f
@@ -3226,6 +3451,7 @@
 13	dat	_	SCONJ	_	_	14	mark	_	Lang=fy
 14	it	_	DET	_	_	4	orphan	_	Lang=fy
 
+# newdoc id = test_2013_buro_1500
 # sent_id = test_2013_buro_1500.TextGrid.577
 # text = op dat momint der sieten zulke moaie bylden yn
 # speaker = fr/female/sp0448f
@@ -3240,6 +3466,7 @@
 8	bylden	_	NOUN	_	_	5	nsubj	_	Lang=fy
 9	yn	_	ADP	_	_	5	case	_	Lang=fy
 
+# newdoc id = train_2003_omnium_16380
 # sent_id = train_2003_omnium_16380.TextGrid.578
 # text = en dat komt ek omdat eh ja de organisatie mei iderien sein
 # speaker = fr/male/sp0341m
@@ -3257,6 +3484,7 @@
 11	iderien	_	PRON	_	_	9	nmod	_	Lang=fy-nl
 12	sein	_	VERB	_	_	3	conj	_	Lang=fy
 
+# newdoc id = train_1990_boereaksjes_9960
 # sent_id = train_1990_boereaksjes_9960.TextGrid.579
 # text = it is iets fan eh ek mei de polityk hin
 # speaker = fr/male/sp0228m
@@ -3272,6 +3500,7 @@
 9	polityk	_	NOUN	_	_	3	nmod	_	Lang=fy
 10	hin	_	AUX	_	_	3	dep	_	Lang=fy
 
+# newdoc id = train_1974_aktualiteiten_17297
 # sent_id = train_1974_aktualiteiten_17297.TextGrid.580
 # text = fan afstammen en de mem is heel âld fan afstamming
 # speaker = fr/male/sp0314m
@@ -3287,6 +3516,7 @@
 9	fan	_	ADP	_	_	10	case	_	Lang=fy
 10	afstamming	_	NOUN	_	_	8	obl	_	Lang=nl
 
+# newdoc id = test_1968_plakkenfryslanterhorne_2132
 # sent_id = test_1968_plakkenfryslanterhorne_2132.TextGrid.581
 # text = en as je filmje dan moatte je ek in onderwerp ha
 # speaker = fr/male/sp0457m
@@ -3303,6 +3533,7 @@
 10	onderwerp	_	NOUN	_	_	11	obj	_	Lang=nl
 11	ha	_	VERB	_	_	4	advcl	_	Lang=fy
 
+# newdoc id = train_1978_skiednis_13037
 # sent_id = train_1978_skiednis_13037.TextGrid.582
 # text = dy groei is inderdaad erg spektakulêr west eh
 # speaker = fr/male/sp0283m
@@ -3316,6 +3547,7 @@
 7	west	_	VERB	_	_	0	root	_	Lang=fy
 8	eh	_	INTJ	_	_	7	discourse	_	Lang=fy
 
+# newdoc id = train_2011_omniumrepobuntebargen_8981
 # sent_id = train_2011_omniumrepobuntebargen_8981.TextGrid.583
 # text = it is sinds foarrich jier ek wer erkend as Nederlânsk ras
 # speaker = fr/male/sp0217m
@@ -3332,6 +3564,7 @@
 10	Nederlânsk	_	ADJ	_	_	11	amod	_	Lang=fy
 11	ras	_	NOUN	_	_	8	obl	_	Lang=fy
 
+# newdoc id = train_2014_burodevriesdoku_10517
 # sent_id = train_2014_burodevriesdoku_10517.TextGrid.584
 # text = nee dat giet wol bytsje langs my hinne
 # speaker = fr/male/sp0233m
@@ -3345,6 +3578,7 @@
 7	my	_	PRON	_	_	3	obl	_	Lang=fy
 8	hinne	_	ADP	_	_	3	case	_	Lang=fy
 
+# newdoc id = train_2013_omnium_18383
 # sent_id = train_2013_omnium_18383.TextGrid.585
 # text = eh myn hele leven hat yn dat teken stien
 # speaker = fr/male/sp0374m
@@ -3359,6 +3593,7 @@
 8	teken	_	NOUN	_	_	9	obl	_	Lang=fy
 9	stien	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1992_itreadeear_2303
 # sent_id = train_1992_itreadeear_2303.TextGrid.586
 # text = intolerant oplizze moatte oan it persoanlik taalgebrûk fan ien
 # speaker = fr/male/sp0071m
@@ -3373,6 +3608,7 @@
 8	fan	_	ADP	_	_	9	case	_	Lang=fy
 9	ien	_	PRON	_	_	7	nmod	_	Lang=fy
 
+# newdoc id = train_1984_kultuerliteratuur_17956
 # sent_id = train_1984_kultuerliteratuur_17956.TextGrid.587
 # text = mar ik wie net de iennichste Reinald Kuipers dy hie itselde
 # speaker = fr/male/sp0366m
@@ -3389,6 +3625,7 @@
 10	hie	_	VERB	_	_	6	advcl	_	Lang=fy
 11	itselde	_	ADJ	_	_	10	obj	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14907
 # sent_id = train_1998_gongfansaken_14907.TextGrid.588
 # text = oer prehistoarje en archeologie
 # speaker = fr/male/sp0052m
@@ -3398,6 +3635,7 @@
 3	en	_	CCONJ	_	_	4	cc	_	Lang=fy
 4	archeologie	_	NOUN	_	_	2	conj	_	Lang=nl
 
+# newdoc id = train_2011_omniumrepobuntebargen_8966
 # sent_id = train_2011_omniumrepobuntebargen_8966.TextGrid.589
 # text = mar se ha yn elk gefal in goed leven hân
 # speaker = fr/female/sp0126f
@@ -3413,6 +3651,7 @@
 9	leven	_	NOUN	_	_	10	obj	_	Lang=nl
 10	hân	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15637
 # sent_id = train_1978_reportaazje_15637.TextGrid.590
 # text = oan de râne ta fan dat hús Ter Heide wie heide
 # speaker = fr/male/sp0327m
@@ -3429,6 +3668,7 @@
 10	wie	_	AUX	_	_	11	cop	_	Lang=fy
 11	heide	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14125
 # sent_id = train_2015_burodevrieslido_14125.TextGrid.591
 # text = ik tink dat der toen iets wekker yn my wie sa fan wêrom hun wol auditie en ikke net
 # speaker = fr/female/sp0296f
@@ -3453,6 +3693,7 @@
 18	ikke	_	PRON	_	_	14	conj	_	Lang=fy
 19	net	_	ADV	_	_	18	advmod	_	Lang=fy
 
+# newdoc id = train_1971_friesprogramma_9691
 # sent_id = train_1971_friesprogramma_9691.TextGrid.592
 # text = dat dan hienen je in learaar foar koperen blaasinstrumenten
 # speaker = fr/male/sp0222m
@@ -3467,6 +3708,7 @@
 8	koperen	_	ADJ	_	_	9	amod	_	Lang=fy
 9	blaasinstrumenten	_	NOUN	_	_	6	nmod	_	Lang=nl
 
+# newdoc id = train_1986_rekreaasje_1342
 # sent_id = train_1986_rekreaasje_1342.TextGrid.593
 # text = het men dat ôfstjitten en is men helemaal oergongen
 # speaker = fr/male/sp0043m
@@ -3481,6 +3723,7 @@
 8	helemaal	_	ADV	_	_	9	advmod	_	Lang=nl
 9	oergongen	_	VERB	_	_	4	conj	_	Lang=fy
 
+# newdoc id = train_1980_kultuerregionaleomrop_17383
 # sent_id = train_1980_kultuerregionaleomrop_17383.TextGrid.594
 # text = onze baas de heer Dykstra
 # speaker = nl/male/sp0358m
@@ -3491,6 +3734,7 @@
 4	heer	_	NOUN	_	_	2	appos	_	Lang=nl
 5	Dykstra	_	PROPN	_	_	4	appos	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17187
 # sent_id = train_2002_gongfansaken_17187.TextGrid.595
 # text = minsken dy wat op hun geweten hienen
 # speaker = fr/male/sp0355m
@@ -3503,6 +3747,7 @@
 6	geweten	_	NOUN	_	_	7	obl	_	Lang=fy-nl
 7	hienen	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1995_kultuer_3033
 # sent_id = train_1995_kultuer_3033.TextGrid.596
 # text = presintaasje Henk te Biesebeek
 # speaker = fr/female/sp0049f
@@ -3512,6 +3757,7 @@
 3	te	_	PRON	_	_	2	flat:name	_	Lang=nl
 4	Biesebeek	_	PROPN	_	_	2	flat:name	_	Lang=nl
 
+# newdoc id = train_2004_gongfansaken_16944
 # sent_id = train_2004_gongfansaken_16944.TextGrid.597
 # text = wy hewwe it oer eh dromen
 # speaker = fr/male/sp0100m
@@ -3523,6 +3769,7 @@
 5	eh	_	INTJ	_	_	6	discourse	_	Lang=fy
 6	dromen	_	VERB	_	_	2	obl	_	Lang=nl
 
+# newdoc id = train_1993_streekkultuerealahuzen_11042
 # sent_id = train_1993_streekkultuerealahuzen_11042.TextGrid.598
 # text = toen wenne dêr in Jaap Visser
 # speaker = fr/male/sp0247m
@@ -3534,6 +3781,7 @@
 5	Jaap	_	PROPN	_	_	2	nsubj	_	Lang=fy
 6	Visser	_	PROPN	_	_	5	flat:name	_	Lang=nl
 
+# newdoc id = train_2013_omnium_16215
 # sent_id = train_2013_omnium_16215.TextGrid.599
 # text = in eh
 # speaker = fr/male/sp0338m
@@ -3541,6 +3789,7 @@
 1	in	_	ADP	_	_	0	root	_	Lang=nl
 2	eh	_	INTJ	_	_	1	discourse	_	Lang=fy
 
+# newdoc id = train_2011_mirandadijkstra_4871
 # sent_id = train_2011_mirandadijkstra_4871.TextGrid.600
 # text = dy troostte my wat
 # speaker = fr/female/sp0136f
@@ -3550,6 +3799,7 @@
 3	my	_	PRON	_	_	2	obj	_	Lang=fy
 4	wat	_	ADV	_	_	2	advmod	_	Lang=fy
 
+# newdoc id = devel_1992_marzje_0591
 # sent_id = devel_1992_marzje_0591.TextGrid.601
 # text = we sille sjen miskien lukt it miskien net
 # speaker = fr/male/sp0404m
@@ -3563,6 +3813,7 @@
 7	miskien	_	ADV	_	_	8	advmod	_	Lang=fy
 8	net	_	ADV	_	_	5	advmod	_	Lang=fy
 
+# newdoc id = train_2005_omnium_11644
 # sent_id = train_2005_omnium_11644.TextGrid.602
 # text = de werksfeer op in kantoar kin ek goed wêze
 # speaker = fr/male/sp0212m
@@ -3577,6 +3828,7 @@
 8	goed	_	ADJ	_	_	6	obl	_	Lang=fy
 9	wêze	_	AUX	_	_	8	cop	_	Lang=fy
 
+# newdoc id = train_2000_sportriemervandervelde_7914
 # sent_id = train_2000_sportriemervandervelde_7914.TextGrid.603
 # text = no dat is punt ien oer it aanbod wat der lei fan de K P N
 # speaker = fr/male/sp0208m
@@ -3598,6 +3850,7 @@
 15	P	_	PROPN	_	_	14	flat:name	_	Lang=fy
 16	N	_	PROPN	_	_	14	flat:name	_	Lang=fy
 
+# newdoc id = train_2011_burodevries_16805
 # sent_id = train_2011_burodevries_16805.TextGrid.604
 # text = De Jong waard yn achttien hûndert fjouwer en tachtich berne
 # speaker = fr/male/sp0349m
@@ -3613,6 +3866,7 @@
 9	tachtich	_	NUM	_	_	5	flat	_	Lang=fy
 10	berne	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_1979_weromneiholwert_0159
 # sent_id = devel_1979_weromneiholwert_0159.TextGrid.605
 # text = yn de situatie dat er ek eh in tiid lang as as arbeider wurkje moast
 # speaker = fr/male/sp0393m
@@ -3633,6 +3887,7 @@
 14	wurkje	_	VERB	_	_	3	ccomp	_	Lang=fy
 15	moast	_	AUX	_	_	14	aux	_	Lang=fy
 
+# newdoc id = test_2000_itfjildyn_0957
 # sent_id = test_2000_itfjildyn_0957.TextGrid.606
 # text = tot er ris in kear in proai sjucht
 # speaker = fr/male/sp0438m
@@ -3646,6 +3901,7 @@
 7	proai	_	NOUN	_	_	8	obj	_	Lang=fy
 8	sjucht	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = test_1990_wapenfanfryslan_0505
 # sent_id = test_1990_wapenfanfryslan_0505.TextGrid.607
 # text = no eh dy moties dy moasten der wol trochkomme want oars koe it hielendal net
 # speaker = fr/female/sp0435f
@@ -3666,6 +3922,7 @@
 14	hielendal	_	ADV	_	_	15	advmod	_	Lang=fy
 15	net	_	ADV	_	_	12	advmod	_	Lang=fy
 
+# newdoc id = devel_2005_omniumfrouedei_2061
 # sent_id = devel_2005_omniumfrouedei_2061.TextGrid.608
 # text = eh te organiseren
 # speaker = fr/female/sp0426f
@@ -3674,6 +3931,7 @@
 2	te	_	ADP	_	_	3	mark	_	Lang=fy
 3	organiseren	_	VERB	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2014_dutskearts_5473
 # sent_id = train_2014_dutskearts_5473.TextGrid.609
 # text = droge mond krijgen dus ik ha sein
 # speaker = nl/male/sp0154m
@@ -3686,6 +3944,7 @@
 6	ha	_	AUX	_	_	7	aux	_	Lang=fy
 7	sein	_	VERB	_	_	3	conj	_	Lang=fy
 
+# newdoc id = train_2010_kultuer_4616
 # sent_id = train_2010_kultuer_4616.TextGrid.610
 # text = ja ik probearje dêr allerlei eh dingen út te heljen
 # speaker = fr/female/sp0133f
@@ -3701,6 +3960,7 @@
 9	te	_	ADP	_	_	10	mark	_	Lang=fy
 10	heljen	_	VERB	_	_	3	xcomp	_	Lang=fy
 
+# newdoc id = train_2014_burodevriesdoku_10421
 # sent_id = train_2014_burodevriesdoku_10421.TextGrid.611
 # text = hin nimme dat as rustpunt witst wol
 # speaker = fr/male/sp0233m
@@ -3713,6 +3973,7 @@
 6	witst	_	VERB	_	_	2	discourse	_	Lang=fy
 7	wol	_	ADV	_	_	6	advmod	_	Lang=fy
 
+# newdoc id = train_1974_aktualiteiten_17289
 # sent_id = train_1974_aktualiteiten_17289.TextGrid.612
 # text = en o sa mak en betrouwbaar
 # speaker = fr/male/sp0314m
@@ -3724,6 +3985,7 @@
 5	en	_	CCONJ	_	_	6	cc	_	Lang=fy
 6	betrouwbaar	_	ADJ	_	_	4	conj	_	Lang=nl
 
+# newdoc id = devel_1979_weromneiholwert_0130
 # sent_id = devel_1979_weromneiholwert_0130.TextGrid.613
 # text = deunby it bekende restaurant it Amelander Veerhuis
 # speaker = fr/male/sp0052m
@@ -3736,6 +3998,7 @@
 6	Amelander	_	PROPN	_	_	4	appos	_	Lang=nl
 7	Veerhuis	_	PROPN	_	_	6	flat:name	_	Lang=nl
 
+# newdoc id = train_2003_omniumferkeardparkeard_8168
 # sent_id = train_2003_omniumferkeardparkeard_8168.TextGrid.614
 # text = hinget der in flap over
 # speaker = fr/female/sp0210f
@@ -3746,6 +4009,7 @@
 4	flap	_	NOUN	_	_	1	nsubj	_	Lang=fy
 5	over	_	ADP	_	_	1	case	_	Lang=nl
 
+# newdoc id = train_1991_marzje_2026
 # sent_id = train_1991_marzje_2026.TextGrid.615
 # text = bygelyks it buro vertrouwensarts
 # speaker = fr/female/sp0056f
@@ -3755,6 +4019,7 @@
 3	buro	_	NOUN	_	_	0	root	_	Lang=fy
 4	vertrouwensarts	_	PROPN	_	_	3	appos	_	Lang=nl
 
+# newdoc id = devel_2009_omniumhansdeboer_2184
 # sent_id = devel_2009_omniumhansdeboer_2184.TextGrid.616
 # text = dat is dat de burgers fan dit lân no even sjugge
 # speaker = fr/male/sp0427m
@@ -3771,6 +4036,7 @@
 10	even	_	ADV	_	_	11	advmod	_	Lang=fy
 11	sjugge	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_2012_buro_1539
 # sent_id = devel_2012_buro_1539.TextGrid.617
 # text = dan binne se op hun eh hun aktyfste
 # speaker = fr/male/sp0417m
@@ -3784,6 +4050,7 @@
 7	hun	_	PRON	_	_	8	nmod:poss	_	Lang=nl
 8	aktyfste	_	ADJ	_	_	2	obj	_	Lang=fy
 
+# newdoc id = train_2012_omnium_16091
 # sent_id = train_2012_omnium_16091.TextGrid.618
 # text = ja mar it wie yn dy tiid ek al eh al al al wat moeilijker
 # speaker = fr/male/sp0335m
@@ -3804,6 +4071,7 @@
 14	wat	_	ADV	_	_	15	advmod	_	Lang=fy
 15	moeilijker	_	ADJ	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2006_omniumhitehei_8430
 # sent_id = train_2006_omniumhitehei_8430.TextGrid.619
 # text = it is fan ûngelooflik grutte betekenis
 # speaker = fr/male/sp0213m
@@ -3815,6 +4083,7 @@
 5	grutte	_	ADJ	_	_	6	amod	_	Lang=fy
 6	betekenis	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1986_persoanen_15883
 # sent_id = train_1986_persoanen_15883.TextGrid.620
 # text = ja dat kan ook
 # speaker = fr/female/sp0055f
@@ -3824,6 +4093,7 @@
 3	kan	_	VERB	_	_	0	root	_	Lang=nl
 4	ook	_	ADV	_	_	3	advmod	_	Lang=nl
 
+# newdoc id = train_1993_gong_2428
 # sent_id = train_1993_gong_2428.TextGrid.621
 # text = foar de earste kategory hat Riek van Dyk fan de Ljouwerter Reddingsbrigade in kursus watergewenning jûn
 # speaker = fr/female/sp0023f
@@ -3845,6 +4115,7 @@
 15	watergewenning	_	NOUN	_	_	14	nmod	_	Lang=nl
 16	jûn	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_1973_gehandicapten_1732
 # sent_id = devel_1973_gehandicapten_1732.TextGrid.622
 # text = wat is dat redzaamheid
 # speaker = fr/male/sp0000m
@@ -3854,6 +4125,7 @@
 3	dat	_	PRON	_	_	1	nsubj	_	Lang=fy
 4	redzaamheid	_	NOUN	_	_	3	appos	_	Lang=nl
 
+# newdoc id = train_1987_twageneraasjes_7322
 # sent_id = train_1987_twageneraasjes_7322.TextGrid.623
 # text = Jan de Vos senior is fan in generaasje dy't op syn tolfte fan skoalle gyng
 # speaker = fr/male/sp0044m
@@ -3874,6 +4146,7 @@
 14	skoalle	_	NOUN	_	_	15	obl	_	Lang=fy
 15	gyng	_	VERB	_	_	8	acl	_	Lang=fy
 
+# newdoc id = test_2008_kultuer_1246
 # sent_id = test_2008_kultuer_1246.TextGrid.624
 # text = wêrom makkest hjir net in heel eh jûn vullend stik fan
 # speaker = fr/male/sp0443m
@@ -3890,6 +4163,7 @@
 10	stik	_	NOUN	_	_	2	obj	_	Lang=fy
 11	fan	_	ADP	_	_	10	case	_	Lang=fy
 
+# newdoc id = train_1986_kultuur_1437
 # sent_id = train_1986_kultuur_1437.TextGrid.625
 # text = syn kontakt mei Pim Regnery fan hotel De Kroon oan it begjin fan de oarloch yn Ljouwert
 # speaker = fr/male/sp0044m
@@ -3912,6 +4186,7 @@
 16	yn	_	ADP	_	_	17	case	_	Lang=fy
 17	Ljouwert	_	PROPN	_	_	15	nmod	_	Lang=fy
 
+# newdoc id = train_1999_gongfansaken_13397
 # sent_id = train_1999_gongfansaken_13397.TextGrid.626
 # text = bang wêze en it tagelyk fijn fine
 # speaker = fr/female/sp0055f
@@ -3924,6 +4199,7 @@
 6	fijn	_	ADJ	_	_	7	advmod	_	Lang=nl
 7	fine	_	VERB	_	_	1	conj	_	Lang=fy
 
+# newdoc id = train_1987_kultuertoneel_15888
 # sent_id = train_1987_kultuertoneel_15888.TextGrid.627
 # text = jûn yn de Koperen Tún in dokumintêre oer Barend en Martsje van der Veen
 # speaker = fr/female/sp0023f
@@ -3943,6 +4219,7 @@
 13	der	_	PROPN	_	_	11	flat:name	_	Lang=nl
 14	Veen	_	PROPN	_	_	11	flat:name	_	Lang=nl
 
+# newdoc id = test_1968_plakkenfryslanterhorne_2117
 # sent_id = test_1968_plakkenfryslanterhorne_2117.TextGrid.628
 # text = no bin ik bang at ik jo sa entûsjast praten hear eh meneer De Wilde
 # speaker = fr/male/sp0001m
@@ -3963,6 +4240,7 @@
 14	De	_	PROPN	_	_	13	appos	_	Lang=nl
 15	Wilde	_	PROPN	_	_	14	flat:name	_	Lang=nl
 
+# newdoc id = train_2000_sportriemervandervelde_7901
 # sent_id = train_2000_sportriemervandervelde_7901.TextGrid.629
 # text = en en dy dy werkt werkt zich het schompes dat is is fantastysk
 # speaker = fr/male/sp0208m
@@ -3981,6 +4259,7 @@
 12	is	_	AUX	_	_	13	cop	_	Lang=fy
 13	fantastysk	_	ADJ	_	_	6	advcl	_	Lang=fy
 
+# newdoc id = train_1994_sportreedriden_2758
 # sent_id = train_1994_sportreedriden_2758.TextGrid.630
 # text = eh it wie in prima tiid allinnich hiest wol even in beste misslach
 # speaker = fr/female/sp0055f
@@ -3999,6 +4278,7 @@
 12	beste	_	ADJ	_	_	13	amod	_	Lang=nl
 13	misslach	_	NOUN	_	_	8	obj	_	Lang=fy
 
+# newdoc id = train_1987_butenlanners_7528
 # sent_id = train_1987_butenlanners_7528.TextGrid.631
 # text = toen bin ik hjir eh
 # speaker = fr/male/sp0201m
@@ -4009,6 +4289,7 @@
 4	hjir	_	ADV	_	_	0	root	_	Lang=fy
 5	eh	_	INTJ	_	_	4	discourse	_	Lang=fy
 
+# newdoc id = train_1990_depauw_1922
 # sent_id = train_1990_depauw_1922.TextGrid.632
 # text = tot myn trettjinde tink ik
 # speaker = fr/female/sp0054f
@@ -4019,6 +4300,7 @@
 4	tink	_	VERB	_	_	3	advcl	_	Lang=fy
 5	ik	_	PRON	_	_	4	nsubj	_	Lang=fy
 
+# newdoc id = train_1993_gong_2445
 # sent_id = train_1993_gong_2445.TextGrid.633
 # text = ja om wat wetter gewenning sa't Ryk van Dyk it dan seit
 # speaker = fr/female/sp0023f
@@ -4036,6 +4318,7 @@
 11	dan	_	ADV	_	_	12	advmod	_	Lang=fy
 12	seit	_	VERB	_	_	4	advcl	_	Lang=fy
 
+# newdoc id = train_2011_mirandadijkstra_4921
 # sent_id = train_2011_mirandadijkstra_4921.TextGrid.634
 # text = om fanút har hart en har gefoel te skilderjen
 # speaker = fr/female/sp0139f
@@ -4050,6 +4333,7 @@
 8	te	_	ADP	_	_	9	mark	_	Lang=fy
 9	skilderjen	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2010_kultuer_4584
 # sent_id = train_2010_kultuer_4584.TextGrid.635
 # text = de natuer is toch wol om dy hinne
 # speaker = fr/female/sp0126f
@@ -4063,6 +4347,7 @@
 7	dy	_	PRON	_	_	3	obl	_	Lang=fy
 8	hinne	_	ADP	_	_	7	case	_	Lang=fy
 
+# newdoc id = train_1982_sosjaleskiednis_6943
 # sent_id = train_1982_sosjaleskiednis_6943.TextGrid.636
 # text = mei fjirtjin jier vroeger krigen we in arbeidskaart
 # speaker = fr/male/sp0187m
@@ -4076,6 +4361,7 @@
 7	in	_	DET	_	_	8	det	_	Lang=fy
 8	arbeidskaart	_	NOUN	_	_	5	obj	_	Lang=fy
 
+# newdoc id = train_2011_buro_4728
 # sent_id = train_2011_buro_4728.TextGrid.637
 # text = oan de tiid hin fan tussen achttjin hûndert en tsien achttjin hûndert en trettjin
 # speaker = fr/male/sp0135m
@@ -4095,6 +4381,7 @@
 13	en	_	CCONJ	_	_	11	flat	_	Lang=fy
 14	trettjin	_	NUM	_	_	11	flat	_	Lang=fy
 
+# newdoc id = test_2000_itfjildyn_0848
 # sent_id = test_2000_itfjildyn_0848.TextGrid.638
 # text = en bedankt
 # speaker = fr/male/sp0097m
@@ -4102,6 +4389,7 @@
 1	en	_	CCONJ	_	_	2	cc	_	Lang=fy
 2	bedankt	_	VERB	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1987_polityk_7441
 # sent_id = train_1987_polityk_7441.TextGrid.639
 # text = yn de oarlochsjierren wie dominee Van Andel aktyf yn de Nederlandse Volksbeweging
 # speaker = fr/male/sp0044m
@@ -4119,6 +4407,7 @@
 11	Nederlandse	_	PROPN	_	_	8	obl	_	Lang=nl
 12	Volksbeweging	_	PROPN	_	_	11	flat:name	_	Lang=nl
 
+# newdoc id = train_1987_steateferkiezings_13219
 # sent_id = train_1987_steateferkiezings_13219.TextGrid.640
 # text = mar se soenen hun iene sit hâlde kinne neffens dizze prognoze
 # speaker = fr/male/sp0052m
@@ -4135,6 +4424,7 @@
 10	dizze	_	DET	_	_	11	det	_	Lang=fy
 11	prognoze	_	NOUN	_	_	7	obl	_	Lang=nl
 
+# newdoc id = test_2000_itfjildyn_0865
 # sent_id = test_2000_itfjildyn_0865.TextGrid.641
 # text = dêr wit ik eigenlik niks fan want ik wit net presys wat hjir allegear eh briedt
 # speaker = fr/male/sp0438m
@@ -4156,6 +4446,7 @@
 15	eh	_	INTJ	_	_	16	discourse	_	Lang=fy
 16	briedt	_	VERB	_	_	9	ccomp	_	Lang=fy
 
+# newdoc id = train_2004_gongfansaken_16913
 # sent_id = train_2004_gongfansaken_16913.TextGrid.642
 # text = en Annie Ennik hoe âld binne jo
 # speaker = fr/male/sp0100m
@@ -4168,6 +4459,7 @@
 6	binne	_	AUX	_	_	5	cop	_	Lang=fy
 7	jo	_	PRON	_	_	5	nsubj	_	Lang=fy
 
+# newdoc id = test_1983_koperentun_0180
 # sent_id = test_1983_koperentun_0180.TextGrid.643
 # text = ik wil wel toegeven dat Fabryk een spannend boek is
 # speaker = fr/male/sp0052m
@@ -4183,6 +4475,7 @@
 9	boek	_	NOUN	_	_	4	ccomp	_	Lang=nl
 10	is	_	AUX	_	_	9	cop	_	Lang=nl
 
+# newdoc id = train_2012_omnium_16061
 # sent_id = train_2012_omnium_16061.TextGrid.644
 # text = en toen is hy yn eh tolve maaie op âlde maaie fiif en fjirtich yn eh yn Grou kaam
 # speaker = fr/male/sp0335m
@@ -4207,6 +4500,7 @@
 18	Grou	_	PROPN	_	_	19	obl	_	Lang=fy
 19	kaam	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14983
 # sent_id = train_1998_gongfansaken_14983.TextGrid.645
 # text = en de wittenskip dy docht in bytsje negatyf en dy docht in bytsje moeizaam
 # speaker = fr/male/sp0312m
@@ -4226,6 +4520,7 @@
 13	bytsje	_	NOUN	_	_	11	obl	_	Lang=fy
 14	moeizaam	_	ADJ	_	_	13	amod	_	Lang=nl
 
+# newdoc id = train_1981_kultuerliteratuur_17633
 # sent_id = train_1981_kultuerliteratuur_17633.TextGrid.646
 # text = de order dy't no binnenkaam is dy wurdt by Sluis in gruttenien neamd
 # speaker = fr/male/sp0037m
@@ -4244,6 +4539,7 @@
 12	gruttenien	_	PROPN	_	_	13	xcomp	_	Lang=fy
 13	neamd	_	VERB	_	_	5	xcomp	_	Lang=fy
 
+# newdoc id = train_1993_streekkultuerealahuzen_11079
 # sent_id = train_1993_streekkultuerealahuzen_11079.TextGrid.647
 # text = en eh vroeger mei it hurdsilen dat gebeurde dan fanôf de Langehoekspôle
 # speaker = fr/male/sp0043m
@@ -4261,6 +4557,7 @@
 11	de	_	DET	_	_	12	det	_	Lang=fy
 12	Langehoekspôle	_	PROPN	_	_	8	obl	_	Lang=fy
 
+# newdoc id = train_1981_polityk_11295
 # sent_id = train_1981_polityk_11295.TextGrid.648
 # text = daar wordt gepleit voor eh
 # speaker = fr/male/sp0253m
@@ -4271,6 +4568,7 @@
 4	voor	_	ADP	_	_	3	orphan	_	Lang=nl
 5	eh	_	INTJ	_	_	3	discourse	_	Lang=fy
 
+# newdoc id = train_1984_kultuerliteratuur_17931
 # sent_id = train_1984_kultuerliteratuur_17931.TextGrid.649
 # text = en dêr kaam Hendrik de Vries dêr kaam Bert Nuver
 # speaker = fr/male/sp0366m
@@ -4286,6 +4584,7 @@
 9	Bert	_	PROPN	_	_	8	nsubj	_	Lang=fy
 10	Nuver	_	PROPN	_	_	9	flat:name	_	Lang=fy
 
+# newdoc id = train_1982_sosjaleskiednis_6961
 # sent_id = train_1982_sosjaleskiednis_6961.TextGrid.650
 # text = dy hat vroeger letter by de koaninginne west
 # speaker = fr/male/sp0187m
@@ -4299,6 +4598,7 @@
 7	koaninginne	_	NOUN	_	_	8	obl	_	Lang=fy
 8	west	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1994_sportreedriden_2721
 # sent_id = train_1994_sportreedriden_2721.TextGrid.651
 # text = dêr hearre we aanst fan Evert Wildstra eh wer wat fan ôf
 # speaker = fr/male/sp0037m
@@ -4316,6 +4616,7 @@
 11	fan	_	ADP	_	_	10	case	_	Lang=fy
 12	ôf	_	ADP	_	_	2	orphan	_	Lang=fy
 
+# newdoc id = train_1990_depauw_1968
 # sent_id = train_1990_depauw_1968.TextGrid.652
 # text = binne it sokke rare beelden ik eh
 # speaker = fr/female/sp0054f
@@ -4328,6 +4629,7 @@
 6	ik	_	PRON	_	_	5	orphan	_	Lang=fy
 7	eh	_	INTJ	_	_	5	discourse	_	Lang=fy
 
+# newdoc id = train_1998_gongfansaken_14980
 # sent_id = train_1998_gongfansaken_14980.TextGrid.653
 # text = miskien noch wol in iets minder dan trochsnee
 # speaker = fr/male/sp0312m
@@ -4341,6 +4643,7 @@
 7	dan	_	SCONJ	_	_	6	fixed	_	Lang=fy
 8	trochsnee	_	NOUN	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_1998_gong_0898
 # sent_id = devel_1998_gong_0898.TextGrid.654
 # text = mar no krije we troch de tiid hinne toch steeds mear gelyk
 # speaker = fr/female/sp0409f
@@ -4358,6 +4661,7 @@
 11	mear	_	ADV	_	_	12	advmod	_	Lang=fy
 12	gelyk	_	NOUN	_	_	3	obj	_	Lang=fy
 
+# newdoc id = train_2008_omnium_11768
 # sent_id = train_2008_omnium_11768.TextGrid.655
 # text = neurofeedbacktherapie dat is in in manier fan hersentrainen
 # speaker = fr/female/sp0257f
@@ -4371,6 +4675,7 @@
 7	fan	_	ADP	_	_	8	case	_	Lang=fy
 8	hersentrainen	_	NOUN	_	_	6	nmod	_	Lang=nl
 
+# newdoc id = train_2007_burodevrieskultuer_14613
 # sent_id = train_2007_burodevrieskultuer_14613.TextGrid.656
 # text = heart eins by Wjelsryp toch
 # speaker = fr/female/sp0126f
@@ -4381,6 +4686,7 @@
 4	Wjelsryp	_	PROPN	_	_	1	obl	_	Lang=fy
 5	toch	_	ADV	_	_	1	discourse	_	Lang=nl
 
+# newdoc id = test_2010_omniumrepowethalderreinboersma_2062
 # sent_id = test_2010_omniumrepowethalderreinboersma_2062.TextGrid.657
 # text = it eh dat is moeilijk oan te jaan want sjuch
 # speaker = fr/male/sp0456m
@@ -4396,6 +4702,7 @@
 9	want	_	CCONJ	_	_	10	cc	_	Lang=fy
 10	sjuch	_	VERB	_	_	8	conj	_	Lang=fy
 
+# newdoc id = train_1987_steateferkiezings_13253
 # sent_id = train_1987_steateferkiezings_13253.TextGrid.658
 # text = eh nee dat klopt niet met myn ferwachting
 # speaker = fr/male/sp0288m
@@ -4409,6 +4716,7 @@
 7	myn	_	PRON	_	_	8	nmod:poss	_	Lang=fy
 8	ferwachting	_	NOUN	_	_	4	obl	_	Lang=fy
 
+# newdoc id = train_1980_fryslanboppe_6518
 # sent_id = train_1980_fryslanboppe_6518.TextGrid.659
 # text = en hat vroeger as jonge op sa'n stienfabryk wurke
 # speaker = fr/female/sp0030f
@@ -4423,6 +4731,7 @@
 8	stienfabryk	_	NOUN	_	_	9	obl	_	Lang=fy
 9	wurke	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2155
 # sent_id = devel_2009_omniumhansdeboer_2155.TextGrid.660
 # text = dat is it volgende
 # speaker = fr/male/sp0427m
@@ -4432,6 +4741,7 @@
 3	it	_	DET	_	_	4	det	_	Lang=fy
 4	volgende	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2007_burodevrieskultuer_14495
 # sent_id = train_2007_burodevrieskultuer_14495.TextGrid.661
 # text = dan bin ik volgens my eh in gefaar op de dyk
 # speaker = fr/female/sp0307f
@@ -4448,6 +4758,7 @@
 10	de	_	DET	_	_	11	det	_	Lang=fy
 11	dyk	_	NOUN	_	_	8	obl	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14404
 # sent_id = train_2005_omnium_14404.TextGrid.662
 # text = en ik bin ek even by dy distributie west eh dy we opset ha
 # speaker = fr/male/sp0306m
@@ -4467,6 +4778,7 @@
 13	opset	_	VERB	_	_	8	acl	_	Lang=fy
 14	ha	_	AUX	_	_	13	aux	_	Lang=fy
 
+# newdoc id = train_1978_reportaazje_15613
 # sent_id = train_1978_reportaazje_15613.TextGrid.663
 # text = doe wie der gjin kunstmest
 # speaker = fr/male/sp0327m
@@ -4477,6 +4789,7 @@
 4	gjin	_	DET	_	_	5	det	_	Lang=fy
 5	kunstmest	_	NOUN	_	_	2	nsubj	_	Lang=nl
 
+# newdoc id = train_2008_omnium_11807
 # sent_id = train_2008_omnium_11807.TextGrid.664
 # text = bijvoorbeeld hjir stiet mei in Ingelsk wurd enhance mei oare wurden
 # speaker = fr/female/sp0257f
@@ -4493,6 +4806,7 @@
 10	oare	_	ADJ	_	_	9	fixed	_	Lang=fy
 11	wurden	_	NOUN	_	_	9	fixed	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17236
 # sent_id = train_2002_gongfansaken_17236.TextGrid.665
 # text = dy nim ik helemaal net serieus plak ik mar gau in antwurd op
 # speaker = fr/male/sp0355m
@@ -4511,6 +4825,7 @@
 12	antwurd	_	NOUN	_	_	7	obj	_	Lang=fy
 13	op	_	ADP	_	_	7	compound:prt	_	Lang=fy
 
+# newdoc id = devel_1992_marzje_0568
 # sent_id = devel_1992_marzje_0568.TextGrid.666
 # text = hin ast dan mei mekoar yn de bus sitst is it toch eh
 # speaker = fr/female/sp0403f
@@ -4529,6 +4844,7 @@
 12	toch	_	ADV	_	_	10	orphan	_	Lang=nl
 13	eh	_	INTJ	_	_	10	discourse	_	Lang=fy
 
+# newdoc id = train_1980_aldjiersprogramma_9750
 # sent_id = train_1980_aldjiersprogramma_9750.TextGrid.667
 # text = fan Utrecht nei Ljouwert
 # speaker = fr/female/sp0030f
@@ -4538,6 +4854,7 @@
 3	nei	_	ADP	_	_	4	case	_	Lang=fy
 4	Ljouwert	_	PROPN	_	_	2	nmod	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_13914
 # sent_id = train_2015_burodevrieslido_13914.TextGrid.668
 # text = ja dan gong ik eh echt itselde momint dat hun eh it middagdutje dienen of sa
 # speaker = fr/female/sp0296f
@@ -4559,6 +4876,7 @@
 15	of	_	CCONJ	_	_	14	discourse	_	Lang=fy
 16	sa	_	ADV	_	_	15	fixed	_	Lang=fy
 
+# newdoc id = train_2002_gongfansaken_17205
 # sent_id = train_2002_gongfansaken_17205.TextGrid.669
 # text = wol mei in hele eh evangelische inslag
 # speaker = fr/male/sp0355m
@@ -4571,6 +4889,7 @@
 6	evangelische	_	ADJ	_	_	7	amod	_	Lang=nl
 7	inslag	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_2013_briankabbes_5131
 # sent_id = train_2013_briankabbes_5131.TextGrid.670
 # text = wienen jo vroeger in jonkje dat in herbarium makke en sa
 # speaker = fr/female/sp0137f
@@ -4587,6 +4906,7 @@
 10	en	_	CCONJ	_	_	9	discourse	_	Lang=fy
 11	sa	_	ADV	_	_	10	fixed	_	Lang=fy
 
+# newdoc id = devel_1979_weromneiholwert_0132
 # sent_id = devel_1979_weromneiholwert_0132.TextGrid.671
 # text = herken je der no noch in bytsje fan of is it
 # speaker = fr/male/sp0052m
@@ -4603,6 +4923,7 @@
 10	is	_	AUX	_	_	11	cop	_	Lang=fy
 11	it	_	DET	_	_	1	orphan	_	Lang=fy
 
+# newdoc id = train_2008_omnium_11770
 # sent_id = train_2008_omnium_11770.TextGrid.672
 # text = tinke se gau dat it giet om hun geheugen te ferbetterjen
 # speaker = fr/female/sp0257f
@@ -4619,6 +4940,7 @@
 10	te	_	ADP	_	_	11	mark	_	Lang=fy
 11	ferbetterjen	_	VERB	_	_	6	advcl	_	Lang=fy
 
+# newdoc id = train_1973_sammelbn_17743
 # sent_id = train_1973_sammelbn_17743.TextGrid.673
 # text = trou om en by de fiif en tweintichste en geniet earst fan jim jonge leven
 # speaker = fr/female/sp0362f
@@ -4639,6 +4961,7 @@
 14	jonge	_	ADJ	_	_	15	amod	_	Lang=fy
 15	leven	_	NOUN	_	_	10	obl	_	Lang=nl
 
+# newdoc id = train_2006_omniumhitehei_8403
 # sent_id = train_2006_omniumhitehei_8403.TextGrid.674
 # text = it giet oer eh de rol fan de dosint dy't oars moet
 # speaker = fr/male/sp0213m
@@ -4656,6 +4979,7 @@
 11	oars	_	ADJ	_	_	12	advmod	_	Lang=fy
 12	moet	_	VERB	_	_	10	xcomp	_	Lang=nl
 
+# newdoc id = train_2011_omniumrepobuntebargen_9000
 # sent_id = train_2011_omniumrepobuntebargen_9000.TextGrid.675
 # text = je moatte fan de boerderij fan eh
 # speaker = fr/male/sp0217m
@@ -4668,6 +4992,7 @@
 6	fan	_	ADP	_	_	2	orphan	_	Lang=fy
 7	eh	_	INTJ	_	_	2	discourse	_	Lang=fy
 
+# newdoc id = devel_1999_mantelsoarch_1011
 # sent_id = devel_1999_mantelsoarch_1011.TextGrid.676
 # text = mantelsoarch dat begjint faak mei ienfâldige klusjes of sa no en dan in boadskip dwaan
 # speaker = fr/female/sp0055f
@@ -4688,6 +5013,7 @@
 14	boadskip	_	NOUN	_	_	15	nsubj	_	Lang=fy
 15	dwaan	_	VERB	_	_	7	conj	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2147
 # sent_id = devel_2009_omniumhansdeboer_2147.TextGrid.677
 # text = foar dy jongeren en hun ouders
 # speaker = fr/male/sp0427m
@@ -4699,6 +5025,7 @@
 5	hun	_	PRON	_	_	6	nmod:poss	_	Lang=nl
 6	ouders	_	NOUN	_	_	3	conj	_	Lang=nl
 
+# newdoc id = train_2011_burodevries_16767
 # sent_id = train_2011_burodevries_16767.TextGrid.678
 # text = we leine yn de Luts midden in Balk
 # speaker = fr/male/sp0349m
@@ -4712,6 +5039,7 @@
 7	in	_	ADP	_	_	8	case	_	Lang=nl
 8	Balk	_	PROPN	_	_	5	nmod	_	Lang=fy
 
+# newdoc id = train_1987_steateferkiezings_13276
 # sent_id = train_1987_steateferkiezings_13276.TextGrid.679
 # text = mar oer it algemien is de tendins nei beneden
 # speaker = fr/male/sp0289m
@@ -4726,6 +5054,7 @@
 8	nei	_	ADP	_	_	9	case	_	Lang=fy
 9	beneden	_	ADV	_	_	7	advmod	_	Lang=nl
 
+# newdoc id = train_2009_kultuur_4435
 # sent_id = train_2009_kultuur_4435.TextGrid.680
 # text = maar toen wie der in man dy frege my wat moat ik hjir no by foarstelle
 # speaker = fr/male/sp0128m
@@ -4747,6 +5076,7 @@
 15	by	_	ADP	_	_	16	case	_	Lang=fy
 16	foarstelle	_	VERB	_	_	11	xcomp	_	Lang=fy
 
+# newdoc id = train_1973_sammelbn_17701
 # sent_id = train_1973_sammelbn_17701.TextGrid.681
 # text = yn bepaalde gefallen liket hun dat wol moai ta
 # speaker = fr/female/sp0023f
@@ -4761,6 +5091,7 @@
 8	moai	_	ADJ	_	_	4	advmod	_	Lang=fy
 9	ta	_	ADV	_	_	4	advmod	_	Lang=fy
 
+# newdoc id = train_1998_taalrubryk_11514
 # sent_id = train_1998_taalrubryk_11514.TextGrid.682
 # text = Kloosterman Postma
 # speaker = fr/male/sp0206m
@@ -4768,6 +5099,7 @@
 1	Kloosterman	_	PRON	_	_	0	root	_	Lang=nl
 2	Postma	_	PROPN	_	_	1	appos	_	Lang=fy
 
+# newdoc id = train_2004_gongfansaken_16905
 # sent_id = train_2004_gongfansaken_16905.TextGrid.683
 # text = wêze en je toch noch jong fiele
 # speaker = fr/male/sp0100m
@@ -4780,6 +5112,7 @@
 6	jong	_	ADJ	_	_	7	obj	_	Lang=fy
 7	fiele	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14371
 # sent_id = train_2005_omnium_14371.TextGrid.684
 # text = de oare twa tenten safolle tekkens safolle iten
 # speaker = fr/male/sp0306m
@@ -4793,6 +5126,7 @@
 7	safolle	_	NUM	_	_	8	nummod	_	Lang=fy
 8	iten	_	NOUN	_	_	4	list	_	Lang=fy
 
+# newdoc id = train_1977_lanbouenfiskerij_1186
 # sent_id = train_1977_lanbouenfiskerij_1186.TextGrid.685
 # text = een ei hoort erbij dan sjogge je in plaatsje
 # speaker = fr/male/sp0038m
@@ -4807,6 +5141,7 @@
 8	in	_	DET	_	_	9	det	_	Lang=fy
 9	plaatsje	_	NOUN	_	_	6	obj	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2162
 # sent_id = devel_2009_omniumhansdeboer_2162.TextGrid.686
 # text = dy't no faak ja tot fertraging leide dat dy fia in soart fan noodwet
 # speaker = fr/male/sp0427m
@@ -4826,6 +5161,7 @@
 13	fan	_	ADP	_	_	14	case	_	Lang=fy
 14	noodwet	_	NOUN	_	_	12	nmod	_	Lang=nl
 
+# newdoc id = train_1999_gongfansaken_14989
 # sent_id = train_1999_gongfansaken_14989.TextGrid.687
 # text = gjin prinses Irene wat dat oanbelanget
 # speaker = fr/male/sp0275m
@@ -4837,6 +5173,7 @@
 5	dat	_	PRON	_	_	6	nsubj	_	Lang=fy
 6	oanbelanget	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2010_burodevries_10687
 # sent_id = train_2010_burodevries_10687.TextGrid.688
 # text = toen hat Anjum dy woe my noch skorse
 # speaker = fr/male/sp0242m
@@ -4850,6 +5187,7 @@
 7	noch	_	ADV	_	_	5	advmod	_	Lang=fy
 8	skorse	_	NOUN	_	_	5	obj	_	Lang=fy
 
+# newdoc id = train_1984_opeswalk_7009
 # sent_id = train_1984_opeswalk_7009.TextGrid.689
 # text = De drie gekroonde baarzen oan de Burgumerdaam yn Burgum
 # speaker = fr/male/sp0044m
@@ -4864,6 +5202,7 @@
 8	yn	_	ADP	_	_	9	case	_	Lang=fy
 9	Burgum	_	PROPN	_	_	7	nmod	_	Lang=fy
 
+# newdoc id = train_1990_depauw_1951
 # sent_id = train_1990_depauw_1951.TextGrid.690
 # text = toen bin ik fuort by in triatlonferiening gien
 # speaker = fr/female/sp0054f
@@ -4877,6 +5216,7 @@
 7	triatlonferiening	_	NOUN	_	_	8	obl	_	Lang=fy
 8	gien	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2181
 # sent_id = devel_2009_omniumhansdeboer_2181.TextGrid.691
 # text = dus lit ik it no mar sa snel mooglik dwaan
 # speaker = fr/male/sp0427m
@@ -4892,6 +5232,7 @@
 9	mooglik	_	ADJ	_	_	7	advmod	_	Lang=fy
 10	dwaan	_	VERB	_	_	2	xcomp	_	Lang=fy
 
+# newdoc id = train_1998_tinkwize_3152
 # sent_id = train_1998_tinkwize_3152.TextGrid.692
 # text = dat idee is ûntstien eh tidens myn studie teology
 # speaker = fr/female/sp0096f
@@ -4906,6 +5247,7 @@
 8	studie	_	NOUN	_	_	4	obl:tmod	_	Lang=nl
 9	teology	_	NOUN	_	_	8	nmod	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14354
 # sent_id = train_2005_omnium_14354.TextGrid.693
 # text = de de hege we he hjir twa helikopter landingsplakken ien beneden
 # speaker = fr/male/sp0306m
@@ -4922,6 +5264,7 @@
 10	ien	_	NUM	_	_	11	nummod	_	Lang=fy
 11	beneden	_	ADP	_	_	5	orphan	_	Lang=nl
 
+# newdoc id = train_2011_burodevries_16858
 # sent_id = train_2011_burodevries_16858.TextGrid.694
 # text = en troch it freegjen oan dy opliedings om hun learlingen mei te stjoeren
 # speaker = fr/male/sp0349m
@@ -4940,6 +5283,7 @@
 12	te	_	ADP	_	_	13	mark	_	Lang=fy
 13	stjoeren	_	VERB	_	_	4	obj	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2132
 # sent_id = devel_2009_omniumhansdeboer_2132.TextGrid.695
 # text = om jongeren eh even wat mear yn beskerming te nimmen
 # speaker = fr/male/sp0427m
@@ -4955,6 +5299,7 @@
 9	te	_	ADP	_	_	10	case	_	Lang=fy
 10	nimmen	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2002_kristavanvelzen_3383
 # sent_id = train_2002_kristavanvelzen_3383.TextGrid.696
 # text = dus die zijn naar Sint Nyk gegaan
 # speaker = nl/female/sp0101f
@@ -4967,6 +5312,7 @@
 6	Nyk	_	PROPN	_	_	5	flat:name	_	Lang=fy
 7	gegaan	_	VERB	_	_	0	root	_	Lang=nl
 
+# newdoc id = test_1990_wapenfanfryslan_0480
 # sent_id = test_1990_wapenfanfryslan_0480.TextGrid.697
 # text = ja dan kinst eh hielendal niks
 # speaker = fr/female/sp0435f
@@ -4978,6 +5324,7 @@
 5	hielendal	_	ADV	_	_	6	advmod	_	Lang=fy
 6	niks	_	ADV	_	_	3	advmod	_	Lang=nl
 
+# newdoc id = train_2001_gongfansaken_17107
 # sent_id = train_2001_gongfansaken_17107.TextGrid.698
 # text = grepen en eh toen is Zia-ul-Haq oan de macht kaam
 # speaker = fr/male/sp0354m
@@ -4993,6 +5340,7 @@
 9	macht	_	NOUN	_	_	10	obj	_	Lang=fy
 10	kaam	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14447
 # sent_id = train_2005_omnium_14447.TextGrid.699
 # text = en dêrfoar hew ik eh derfoar koazen om by artsen sûnder grinzen te wurkjen
 # speaker = fr/male/sp0306m
@@ -5012,6 +5360,7 @@
 13	te	_	ADP	_	_	14	mark	_	Lang=fy
 14	wurkjen	_	VERB	_	_	7	xcomp	_	Lang=fy
 
+# newdoc id = train_1991_wapenfanfryslan_11149
 # sent_id = train_1991_wapenfanfryslan_11149.TextGrid.700
 # text = toen dy aksje op tou set waard
 # speaker = fr/male/sp0248m
@@ -5024,6 +5373,7 @@
 6	set	_	VERB	_	_	0	root	_	Lang=fy
 7	waard	_	AUX	_	_	6	aux	_	Lang=fy
 
+# newdoc id = train_1988_kultuerpersoanen_14232
 # sent_id = train_1988_kultuerpersoanen_14232.TextGrid.701
 # text = onder oaren yn it Koopmanshûs yn Frjentsjer
 # speaker = fr/male/sp0044m
@@ -5036,6 +5386,7 @@
 6	yn	_	ADP	_	_	7	case	_	Lang=fy
 7	Frjentsjer	_	PROPN	_	_	5	nmod	_	Lang=fy
 
+# newdoc id = train_2008_omniumpacques_8955
 # sent_id = train_2008_omniumpacques_8955.TextGrid.702
 # text = mar eh ek yn China he jim in in bedriuw yn Shanghai
 # speaker = fr/female/sp0055f
@@ -5053,6 +5404,7 @@
 11	yn	_	ADP	_	_	12	case	_	Lang=fy
 12	Shanghai	_	PROPN	_	_	10	nmod	_	Lang=other
 
+# newdoc id = train_2008_burodevrieskultuer_14689
 # sent_id = train_2008_burodevrieskultuer_14689.TextGrid.703
 # text = eh en rivieren moat er nei it it naburige lân
 # speaker = fr/male/sp0308m
@@ -5068,6 +5420,7 @@
 9	naburige	_	ADJ	_	_	10	amod	_	Lang=nl
 10	lân	_	NOUN	_	_	4	obj	_	Lang=fy
 
+# newdoc id = train_2009_kultuur_4342
 # sent_id = train_2009_kultuur_4342.TextGrid.704
 # text = de direkteur fan Belvédère Hans Steenbruggen
 # speaker = fr/female/sp0126f
@@ -5079,6 +5432,7 @@
 5	Hans	_	PROPN	_	_	2	appos	_	Lang=nl
 6	Steenbruggen	_	PROPN	_	_	5	flat:name	_	Lang=nl
 
+# newdoc id = train_2002_kristavanvelzen_3281
 # sent_id = train_2002_kristavanvelzen_3281.TextGrid.705
 # text = se wolle it helemaal ôfskaffe hin dy eh rail tenders
 # speaker = fr/male/sp0100m
@@ -5094,6 +5448,7 @@
 9	rail	_	NOUN	_	_	10	compound	_	Lang=en
 10	tenders	_	NOUN	_	_	5	advcl	_	Lang=en
 
+# newdoc id = train_1967_natoerenmiljeu_0484
 # sent_id = train_1967_natoerenmiljeu_0484.TextGrid.706
 # text = tot het van de vereniging it Fryske Gea
 # speaker = nl/male/sp0016m
@@ -5107,6 +5462,7 @@
 7	Fryske	_	PROPN	_	_	5	appos	_	Lang=fy
 8	Gea	_	PROPN	_	_	7	flat:name	_	Lang=fy
 
+# newdoc id = train_1999_gongfansaken_15031
 # sent_id = train_1999_gongfansaken_15031.TextGrid.707
 # text = wat de natuer betreft in grutte ferearming eigenlik fan dy
 # speaker = fr/male/sp0275m
@@ -5122,6 +5478,7 @@
 9	fan	_	ADP	_	_	10	case	_	Lang=fy
 10	dy	_	PRON	_	_	7	obl	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14403
 # sent_id = train_2005_omnium_14403.TextGrid.708
 # text = mar hjoed wie wat dat betreft in hele hele moaie dei
 # speaker = fr/male/sp0306m
@@ -5138,6 +5495,7 @@
 10	moaie	_	ADJ	_	_	11	amod	_	Lang=fy
 11	dei	_	NOUN	_	_	6	obl	_	Lang=fy
 
+# newdoc id = devel_2009_omniumhansdeboer_2130
 # sent_id = devel_2009_omniumhansdeboer_2130.TextGrid.709
 # text = at is slecht giet mei de ekonomy dan binne de jongeren it meast kwetsbaar
 # speaker = fr/male/sp0427m
@@ -5157,6 +5515,7 @@
 13	meast	_	ADJ	_	_	14	amod	_	Lang=fy
 14	kwetsbaar	_	NOUN	_	_	9	obj	_	Lang=nl
 
+# newdoc id = devel_1998_gong_0901
 # sent_id = devel_1998_gong_0901.TextGrid.710
 # text = doe hiene we wol iets fan idealisme
 # speaker = fr/female/sp0409f
@@ -5169,6 +5528,7 @@
 6	fan	_	ADP	_	_	7	case	_	Lang=fy
 7	idealisme	_	NOUN	_	_	5	nmod	_	Lang=fy
 
+# newdoc id = train_1989_tinkwize_1682
 # sent_id = train_1989_tinkwize_1682.TextGrid.711
 # text = neidat Hoedemaker ûntslach naam as heechlearaar
 # speaker = fr/female/sp0049f
@@ -5180,6 +5540,7 @@
 5	as	_	ADP	_	_	6	case	_	Lang=fy
 6	heechlearaar	_	NOUN	_	_	4	obl	_	Lang=fy
 
+# newdoc id = train_1977_lanbouenfiskerij_1218
 # sent_id = train_1977_lanbouenfiskerij_1218.TextGrid.712
 # text = want hy besiket toch
 # speaker = fr/male/sp0038m
@@ -5189,6 +5550,7 @@
 3	besiket	_	VERB	_	_	0	root	_	Lang=fy
 4	toch	_	ADV	_	_	3	advmod	_	Lang=nl
 
+# newdoc id = train_2002_omniumkollumjohanvanderzee_8018
 # sent_id = train_2002_omniumkollumjohanvanderzee_8018.TextGrid.713
 # text = Fons de Poel mei der wêze
 # speaker = fr/male/sp0209m
@@ -5200,6 +5562,7 @@
 5	der	_	PRON	_	_	6	expl	_	Lang=fy
 6	wêze	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2013_omnium_16194
 # sent_id = train_2013_omnium_16194.TextGrid.714
 # text = en úteinlik kiest er dan toch wer om nei Amearika ta te gean
 # speaker = fr/male/sp0336m
@@ -5218,6 +5581,7 @@
 12	te	_	ADP	_	_	13	mark	_	Lang=fy
 13	gean	_	VERB	_	_	3	xcomp	_	Lang=fy
 
+# newdoc id = train_2013_omnium_16251
 # sent_id = train_2013_omnium_16251.TextGrid.715
 # text = en eh en ik haw eh ferskillende interviews mei minsken hân
 # speaker = fr/male/sp0340m
@@ -5234,6 +5598,7 @@
 10	minsken	_	NOUN	_	_	8	nmod	_	Lang=fy
 11	hân	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7277
 # sent_id = train_1986_sunenssoarch_7277.TextGrid.716
 # text = mar op in gegeven momint dan rôlet dêr ek in diagnose út
 # speaker = fr/male/sp0196m
@@ -5251,6 +5616,7 @@
 11	diagnose	_	NOUN	_	_	7	obj	_	Lang=nl
 12	út	_	ADP	_	_	7	compound:prt	_	Lang=fy
 
+# newdoc id = train_1998_tinkwize_3247
 # sent_id = train_1998_tinkwize_3247.TextGrid.717
 # text = trije traveeën neame se dat
 # speaker = fr/male/sp0098m
@@ -5261,6 +5627,7 @@
 4	se	_	PRON	_	_	3	nsubj	_	Lang=fy
 5	dat	_	ADV	_	_	3	advmod	_	Lang=fy
 
+# newdoc id = test_2010_omniumrepowethalderreinboersma_2008
 # sent_id = test_2010_omniumrepowethalderreinboersma_2008.TextGrid.718
 # text = en toch wenje ik hjir al jierren en jierren
 # speaker = fr/male/sp0456m
@@ -5275,6 +5642,7 @@
 8	en	_	CCONJ	_	_	9	cc	_	Lang=fy
 9	jierren	_	NOUN	_	_	7	conj	_	Lang=fy
 
+# newdoc id = train_1996_gong_3040
 # sent_id = train_1996_gong_3040.TextGrid.719
 # text = Greta Griffioen is seis en fyftich jier
 # speaker = fr/female/sp0055f
@@ -5287,6 +5655,7 @@
 6	fyftich	_	NUM	_	_	4	flat	_	Lang=fy
 7	jier	_	NOUN	_	_	3	obj	_	Lang=fy
 
+# newdoc id = train_1986_sunenssoarch_7243
 # sent_id = train_1986_sunenssoarch_7243.TextGrid.720
 # text = no en bekijk het maar at der fragen binne kom dan mar en eh ja
 # speaker = fr/female/sp0194f
@@ -5307,6 +5676,7 @@
 14	eh	_	INTJ	_	_	3	discourse	_	Lang=fy
 15	ja	_	INTJ	_	_	3	discourse	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14008
 # sent_id = train_2015_burodevrieslido_14008.TextGrid.721
 # text = no ja de de werkcondities binne aardich swier
 # speaker = fr/female/sp0296f
@@ -5320,6 +5690,7 @@
 7	aardich	_	ADJ	_	_	8	advmod	_	Lang=fy
 8	swier	_	ADJ	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14165
 # sent_id = train_2015_burodevrieslido_14165.TextGrid.722
 # text = toen wie ik njoggentjin ja
 # speaker = fr/female/sp0296f
@@ -5330,6 +5701,7 @@
 4	njoggentjin	_	NUM	_	_	0	root	_	Lang=fy
 5	ja	_	INTJ	_	_	4	discourse	_	Lang=fy
 
+# newdoc id = train_2003_gong_3558
 # sent_id = train_2003_gong_3558.TextGrid.723
 # text = takommend jier april sil Margreeth de Boer ôfskie nimme fan Ljouwert
 # speaker = fr/female/sp0055f
@@ -5346,6 +5718,7 @@
 10	fan	_	ADP	_	_	11	case	_	Lang=fy
 11	Ljouwert	_	PROPN	_	_	9	obl	_	Lang=fy
 
+# newdoc id = train_2006_omnium_11765
 # sent_id = train_2006_omnium_11765.TextGrid.724
 # text = even noch eh werom nei vroeger wannear bist dan lid wurden
 # speaker = fr/female/sp0126f
@@ -5362,6 +5735,7 @@
 10	lid	_	NOUN	_	_	11	obj	_	Lang=fy
 11	wurden	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2007_burodevrieskultuer_14573
 # sent_id = train_2007_burodevrieskultuer_14573.TextGrid.725
 # text = dat wie blykber ek in grutte bende
 # speaker = fr/female/sp0307f
@@ -5374,6 +5748,7 @@
 6	grutte	_	ADJ	_	_	7	amod	_	Lang=fy
 7	bende	_	NOUN	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1971_skutsjesilen_5779
 # sent_id = train_1971_skutsjesilen_5779.TextGrid.726
 # text = de as nûmer ien fan start vertrokken Tjitte Brouwer hold dat plak kreas fêst
 # speaker = fr/male/sp0001m
@@ -5393,6 +5768,7 @@
 13	kreas	_	ADV	_	_	10	advmod	_	Lang=fy
 14	fêst	_	ADP	_	_	10	compound:prt	_	Lang=fy
 
+# newdoc id = train_2010_rec_4566
 # sent_id = train_2010_rec_4566.TextGrid.727
 # text = hin dus it bedriuw kin net in bedriuw gean
 # speaker = fr/female/sp0131f
@@ -5407,6 +5783,7 @@
 8	bedriuw	_	NOUN	_	_	9	obl	_	Lang=fy
 9	gean	_	VERB	_	_	5	xcomp	_	Lang=fy
 
+# newdoc id = train_2009_omnium_12003
 # sent_id = train_2009_omnium_12003.TextGrid.728
 # text = dat seit in heel soad oer de oer de eh angst en de sfear yn eh
 # speaker = fr/male/sp0258m
@@ -5428,6 +5805,7 @@
 15	yn	_	ADP	_	_	2	orphan	_	Lang=fy
 16	eh	_	INTJ	_	_	2	discourse	_	Lang=fy
 
+# newdoc id = test_1988_persoanen_0257
 # sent_id = test_1988_persoanen_0257.TextGrid.729
 # text = en op in keunstniverheidskoalle moatte je faak in byfak kiezen
 # speaker = fr/male/sp0433m
@@ -5443,6 +5821,7 @@
 9	byfak	_	NOUN	_	_	10	obj	_	Lang=fy
 10	kiezen	_	VERB	_	_	0	root	_	Lang=nl
 
+# newdoc id = train_1973_sammelbn_17771
 # sent_id = train_1973_sammelbn_17771.TextGrid.730
 # text = kosteres fan de Nederlânsk herfoarmde tsjerke
 # speaker = fr/female/sp0363f
@@ -5454,6 +5833,7 @@
 5	herfoarmde	_	ADJ	_	_	6	amod	_	Lang=fy
 6	tsjerke	_	NOUN	_	_	1	nmod	_	Lang=fy
 
+# newdoc id = train_1994_sportreedriden_2753
 # sent_id = train_1994_sportreedriden_2753.TextGrid.731
 # text = eh heel verrassend juster seidest noch
 # speaker = fr/female/sp0055f
@@ -5465,6 +5845,7 @@
 5	seidest	_	VERB	_	_	3	advcl	_	Lang=fy
 6	noch	_	ADV	_	_	5	advmod	_	Lang=fy
 
+# newdoc id = train_1966_rekreaasje_0012
 # sent_id = train_1966_rekreaasje_0012.TextGrid.732
 # text = de provinsje mei it heechste persintaasje autochtonen
 # speaker = fr/male/sp0000m
@@ -5477,6 +5858,7 @@
 6	persintaasje	_	NOUN	_	_	2	nmod	_	Lang=fy
 7	autochtonen	_	NOUN	_	_	6	nmod	_	Lang=nl
 
+# newdoc id = train_1991_gribusharkspullen_2185
 # sent_id = train_1991_gribusharkspullen_2185.TextGrid.733
 # text = ja rustig ik kom deroan
 # speaker = fr/child/sp0066c
@@ -5487,6 +5869,7 @@
 4	kom	_	VERB	_	_	0	root	_	Lang=fy
 5	deroan	_	ADV	_	_	4	advmod	_	Lang=fy
 
+# newdoc id = train_2009_kultuur_4460
 # sent_id = train_2009_kultuur_4460.TextGrid.734
 # text = ik ik snap der niks fan hear dat eh dat se niks oars te fertellen he
 # speaker = fr/male/sp0128m
@@ -5508,6 +5891,7 @@
 15	fertellen	_	VERB	_	_	3	ccomp	_	Lang=fy
 16	he	_	AUX	_	_	15	cop	_	Lang=fy
 
+# newdoc id = train_1969_lawei_0768
 # sent_id = train_1969_lawei_0768.TextGrid.735
 # text = net te ferjitten Ryk Landman dy't der ek sa prachtich hin want
 # speaker = fr/male/sp0021m
@@ -5525,6 +5909,7 @@
 11	hin	_	VERB	_	_	4	acl	_	Lang=fy
 12	want	_	CCONJ	_	_	11	orphan	_	Lang=fy
 
+# newdoc id = train_2000_sportriemervandervelde_7946
 # sent_id = train_2000_sportriemervandervelde_7946.TextGrid.736
 # text = dus de stemverhouding wie juster fan de achttjin clubs dy dêr wienen
 # speaker = fr/male/sp0208m
@@ -5542,6 +5927,7 @@
 11	dêr	_	PRON	_	_	12	expl	_	Lang=fy
 12	wienen	_	VERB	_	_	9	acl	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_14190
 # sent_id = train_2015_burodevrieslido_14190.TextGrid.737
 # text = en dan is der noch eh hjir boven kinst ek noch sitte
 # speaker = fr/female/sp0296f
@@ -5559,6 +5945,7 @@
 11	noch	_	ADV	_	_	12	advmod	_	Lang=fy
 12	sitte	_	VERB	_	_	9	obj	_	Lang=fy
 
+# newdoc id = train_2015_burodevrieslido_13955
 # sent_id = train_2015_burodevrieslido_13955.TextGrid.738
 # text = ja om njoggen oere begjint de show tot kertier foar elven
 # speaker = fr/female/sp0296f
@@ -5575,6 +5962,7 @@
 10	foar	_	ADP	_	_	9	fixed	_	Lang=fy
 11	elven	_	NUM	_	_	9	fixed	_	Lang=fy
 
+# newdoc id = train_2013_omnium_18459
 # sent_id = train_2013_omnium_18459.TextGrid.739
 # text = hin se sitte wol mei in enorm stik
 # speaker = fr/male/sp0374m
@@ -5588,6 +5976,7 @@
 7	enorm	_	ADJ	_	_	8	amod	_	Lang=nl
 8	stik	_	NOUN	_	_	3	obl	_	Lang=fy
 
+# newdoc id = test_2010_omniumrepowethalderreinboersma_1977
 # sent_id = test_2010_omniumrepowethalderreinboersma_1977.TextGrid.740
 # text = miskien wol te weinig fieling hâlde
 # speaker = fr/male/sp0212m
@@ -5599,6 +5988,7 @@
 5	fieling	_	VERB	_	_	6	obj	_	Lang=fy
 6	hâlde	_	VERB	_	_	0	root	_	Lang=fy
 
+# newdoc id = train_2000_sportriemervandervelde_7974
 # sent_id = train_2000_sportriemervandervelde_7974.TextGrid.741
 # text = tegenstrijdige berichtgeving is
 # speaker = fr/male/sp0208m
@@ -5607,6 +5997,7 @@
 2	berichtgeving	_	NOUN	_	_	0	root	_	Lang=nl
 3	is	_	AUX	_	_	2	orphan	_	Lang=fy
 
+# newdoc id = train_1980_aldjiersprogramma_9738
 # sent_id = train_1980_aldjiersprogramma_9738.TextGrid.742
 # text = ris even sjen wie wie dy oare noch Fedde Schurer Brouwer eh
 # speaker = fr/male/sp0223m
@@ -5624,6 +6015,7 @@
 11	Brouwer	_	PROPN	_	_	9	flat:name	_	Lang=fy
 12	eh	_	INTJ	_	_	5	discourse	_	Lang=fy
 
+# newdoc id = train_2003_gongfansaken_10156
 # sent_id = train_2003_gongfansaken_10156.TextGrid.743
 # text = hoefolle gynaecologen eh sitte der yn Snits
 # speaker = fr/male/sp0097m
@@ -5636,6 +6028,7 @@
 6	yn	_	ADP	_	_	7	case	_	Lang=fy
 7	Snits	_	PROPN	_	_	4	obl	_	Lang=fy
 
+# newdoc id = train_1993_gong_2434
 # sent_id = train_1993_gong_2434.TextGrid.744
 # text = we wiene ek yn it flotarium fan Ko Klootwijk en Radjani Edel yn Ljouwert
 # speaker = fr/female/sp0023f
@@ -5655,6 +6048,7 @@
 13	yn	_	ADP	_	_	14	case	_	Lang=fy
 14	Ljouwert	_	PROPN	_	_	6	obl	_	Lang=fy
 
+# newdoc id = train_1994_aktua_16423
 # sent_id = train_1994_aktua_16423.TextGrid.745
 # text = nieuwsgierigheid voor voor Tryater
 # speaker = nl/male/sp0342m
@@ -5664,6 +6058,7 @@
 3	voor	_	ADP	_	_	4	case	_	Lang=nl
 4	Tryater	_	PROPN	_	_	1	nmod	_	Lang=fy
 
+# newdoc id = train_2005_omnium_14350
 # sent_id = train_2005_omnium_14350.TextGrid.746
 # text = hjir nei beneden
 # speaker = fr/male/sp0306m
@@ -5672,6 +6067,7 @@
 2	nei	_	ADP	_	_	3	case	_	Lang=fy
 3	beneden	_	ADP	_	_	1	obl	_	Lang=nl
 
+# newdoc id = train_1989_kultuerliteratuurgysbertjapicx_13805
 # sent_id = train_1989_kultuerliteratuurgysbertjapicx_13805.TextGrid.747
 # text = dat binne dus as it ware twa gebieten ik hew
 # speaker = fr/male/sp0295m
@@ -5687,6 +6083,7 @@
 9	ik	_	PRON	_	_	10	nsubj	_	Lang=fy
 10	hew	_	VERB	_	_	2	parataxis	_	Lang=fy
 
+# newdoc id = train_1990_depauw_1938
 # sent_id = train_1990_depauw_1938.TextGrid.748
 # text = puur eh ja om ris te sjen hoe't it mei de
 # speaker = fr/female/sp0054f
@@ -5703,6 +6100,7 @@
 10	mei	_	ADP	_	_	11	case	_	Lang=fy
 11	de	_	DET	_	_	7	orphan	_	Lang=fy
 
+# newdoc id = train_1984_sammelban_18673
 # sent_id = train_1984_sammelban_18673.TextGrid.749
 # text = feroardield ta in bestean sûnder buren
 # speaker = fr/male/sp0376m
@@ -5714,6 +6112,7 @@
 5	sûnder	_	ADP	_	_	6	case	_	Lang=fy
 6	buren	_	NOUN	_	_	4	nmod	_	Lang=nl
 
+# newdoc id = devel_1987_kultuur_0216
 # sent_id = devel_1987_kultuur_0216.TextGrid.750
 # text = en Koen Zondag en Thomas Bakker fan it Kristlik Frysk Selskip
 # speaker = fr/female/sp0030f
