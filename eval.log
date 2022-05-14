@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Frisian_Dutch-Fame:
-commit b92a55a0ff04ba18c586ff3581e2182bcf258fb5
-Merge: 6ee7e2c a78bcac
+commit 81ed529c467e446736cf80cb9671b403024010a8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 16:16:05 2021 +0100
 Size: counted 3729 of 3729 words (nodes).
 Size: min(0, log((N/1000)**2)) = 2.63228020239337.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,8 +25,16 @@ Udapi: found 1310 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 3729 words.
 Genres: found 1 out of 17 known.
 validate.py --lang qfn --max-err=10 UD_Frisian_Dutch-Fame/qfn_fame-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 112 Sent train_2010_rec_4507.TextGrid.7 Node 3]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 113 Sent train_2010_rec_4507.TextGrid.7 Node 4]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 340 Sent train_2011_mirandadijkstra_4911.TextGrid.22 Node 5]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 926 Sent train_2002_kristavanvelzen_3290.TextGrid.62 Node 3]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 4162 Sent test_2008_kultuer_1246.TextGrid.624 Node 9]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 4312 Sent train_1993_gong_2445.TextGrid.633 Node 5]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+Morpho errors: 6
+*** FAILED *** with 6 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
@@ -35,6 +43,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.764705882352941) = 0.0588235294117647
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.190095744042811) * (availability=1) * (validity=1) = 0.190095744042811
-STARS = 1
-UD_Frisian_Dutch-Fame	0.190095744042811	1
+(TOTAL score=0.190095744042811) * (availability=1) * (validity=0.01) = 0.00190095744042811
+STARS = 0
+UD_Frisian_Dutch-Fame	0.00190095744042811	0
