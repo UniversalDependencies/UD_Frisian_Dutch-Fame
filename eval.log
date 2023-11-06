@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Frisian_Dutch-Fame:
-commit baf9ce333b25a4a86e7665508b60f94858bc3dc5
+commit 5bf11979095aa46dfa45e3511458912d9a180cdf
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 10:47:52 2022 +0100
+Date:   Tue May 9 10:08:19 2023 +0200
 Size: counted 3729 of 3729 words (nodes).
 Size: min(0, log((N/1000)**2)) = 2.63228020239337.
 Size: maximum value 13.815511 is for 1000000 words or more.
