@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Frisian_Dutch-Fame:
-commit ffa9356c4ec68a084d16a56e36a8be224141fa62
+commit eca7fc1ac9d692bf6bd89ff7d3c61d5d07ff705a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 12:16:22 2024 +0200
+Date:   Mon Nov 11 15:24:11 2024 +0100
 Size: counted 3729 of 3729 words (nodes).
 Size: min(0, log((N/1000)**2)) = 2.63228020239337.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,23 +20,37 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       1302
-Udapi: found 1302 bugs.
+               TOTAL       1293
+Udapi: found 1293 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 3729 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang qfn --max-err=10 UD_Frisian_Dutch-Fame/qfn_fame-ud-test.conllu
-[Line 4866 Sent train_2015_burodevrieslido_13914.TextGrid.668 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:itselde:det --> 6:echt:amod)
-Warnings: 1
-*** PASSED ***
-Validity: 1
+[Line 73 Sent train_2006_omniumhitehei_8449.TextGrid.5 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ten koste fan' does not have the 'ExtPos' feature
+[Line 254 Sent train_2010_burodevries_10616.TextGrid.16 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'ja goed' does not have the 'ExtPos' feature
+[Line 368 Sent test_2013_buro_1521.TextGrid.24 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'mar ja' does not have the 'ExtPos' feature
+[Line 806 Sent train_1993_gong_2473.TextGrid.53 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'mar ja' does not have the 'ExtPos' feature
+[Line 1111 Sent train_2012_omnium_16103.TextGrid.75 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'no ja' does not have the 'ExtPos' feature
+[Line 1240 Sent train_2005_omnium_14342.TextGrid.84 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'yn ieder gefal' does not have the 'ExtPos' feature
+[Line 1240 Sent train_2005_omnium_14342.TextGrid.84 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'yn'
+[Line 1324 Sent devel_2007_voedselbank_1247.TextGrid.88 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'of wol' does not have the 'ExtPos' feature
+[Line 1523 Sent train_1986_rekreaasje_1399.TextGrid.100 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'oan de hân fan' does not have the 'ExtPos' feature
+[Line 1565 Sent train_1993_streekkultuerealahuzen_11105.TextGrid.103 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'onder anderen' does not have the 'ExtPos' feature
+[Line 2053 Sent train_2015_burodevrieslido_14169.TextGrid.137 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'no ja' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 4866 Sent train_2015_burodevrieslido_13914.TextGrid.668 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:itselde:det --> 6:echt:amod)
+Syntax errors: 2
+Warnings: 34
+*** FAILED *** with 2 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
 (weight=0.256410256410256) * (score{size}=0.190530794453769) = 0.0488540498599408
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.194620630920639) * (availability=1) * (validity=1) = 0.194620630920639
-STARS = 1
-UD_Frisian_Dutch-Fame	0.194620630920639	1
+(TOTAL score=0.194369248316316) * (availability=1) * (validity=0.01) = 0.00194369248316316
+STARS = 0
+UD_Frisian_Dutch-Fame	0.00194369248316316	0
