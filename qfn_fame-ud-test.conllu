@@ -1237,7 +1237,7 @@
 4	hjoed	_	ADV	_	_	16	advmod	_	Lang=fy
 5	he	_	AUX	_	_	14	reparandum	_	Lang=fy
 6	we	_	PRON	_	_	15	reparandum	_	Lang=fy
-7	yn	_	ADP	_	_	16	advmod	_	Lang=fy
+7	yn	_	ADV	_	_	16	advmod	_	Lang=fy
 8	ieder	_	DET	_	_	7	fixed	_	Lang=nl
 9	gefal	_	NOUN	_	_	7	fixed	_	Lang=fy
 10	eh	_	INTJ	_	_	16	discourse	_	Lang=fy
@@ -2976,7 +2976,7 @@
 10	pastory	_	NOUN	_	_	7	advcl	_	Lang=fy
 11	niks	_	PRON	_	_	10	nmod	_	Lang=nl
 12	foar	_	ADP	_	_	13	case	_	Lang=fy
-13	my	_	PRON	_	_	11	obl	_	Lang=fy
+13	my	_	AUX	_	_	11	aux	_	Lang=fy
 14	wie	_	AUX	_	_	10	cop	_	Lang=fy
 
 # newdoc id = train_1972_romtlikeoardening_9503
