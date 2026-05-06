@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Frisian_Dutch-Fame:
-commit b45d1844c18429198a46f1d1bf52631aede69d5e
-Merge: ef0f399 6daf97c
+commit 62193746c413d154602899ae53184745019b8bb2
+Merge: 1f211ba 4bc3e07
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'qfn_fame'
@@ -25,24 +25,20 @@ Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang qfn --max-err=10 UD_Frisian_Dutch-Fame/qfn_fame-ud-test.conllu
-[Line 73 Sent train_2006_omniumhitehei_8449.TextGrid.5]: [L3 Warning fixed-without-extpos] Fixed expression 'ten koste fan' does not have the 'ExtPos' feature
-[Line 254 Sent train_2010_burodevries_10616.TextGrid.16]: [L3 Warning fixed-without-extpos] Fixed expression 'ja goed' does not have the 'ExtPos' feature
-[Line 368 Sent test_2013_buro_1521.TextGrid.24]: [L3 Warning fixed-without-extpos] Fixed expression 'mar ja' does not have the 'ExtPos' feature
-[Line 806 Sent train_1993_gong_2473.TextGrid.53]: [L3 Warning fixed-without-extpos] Fixed expression 'mar ja' does not have the 'ExtPos' feature
-[Line 1111 Sent train_2012_omnium_16103.TextGrid.75]: [L3 Warning fixed-without-extpos] Fixed expression 'no ja' does not have the 'ExtPos' feature
-[Line 1240 Sent train_2005_omnium_14342.TextGrid.84]: [L3 Warning fixed-without-extpos] Fixed expression 'yn ieder gefal' does not have the 'ExtPos' feature
-[Line 1240 Sent train_2005_omnium_14342.TextGrid.84]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('yn')
-[Line 1324 Sent devel_2007_voedselbank_1247.TextGrid.88]: [L3 Warning fixed-without-extpos] Fixed expression 'of wol' does not have the 'ExtPos' feature
-[Line 1523 Sent train_1986_rekreaasje_1399.TextGrid.100]: [L3 Warning fixed-without-extpos] Fixed expression 'oan de hân fan' does not have the 'ExtPos' feature
-[Line 1565 Sent train_1993_streekkultuerealahuzen_11105.TextGrid.103]: [L3 Warning fixed-without-extpos] Fixed expression 'onder anderen' does not have the 'ExtPos' feature
-[Line 2053 Sent train_2015_burodevrieslido_14169.TextGrid.137]: [L3 Warning fixed-without-extpos] Fixed expression 'no ja' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 4866 Sent train_2015_burodevrieslido_13914.TextGrid.668]: [L3 Syntax leaf-det] 'det' not expected to have children (7:itselde:det --> 6:echt:amod)
-Syntax errors: 2
-Warnings: 35
-*** FAILED *** with 2 errors
-Exit code: 1
-Validity: 0.01
+[Line 73 Sent train_2006_omniumhitehei_8449.TextGrid.5]: [L3 WARNING fixed-without-extpos] Fixed expression 'ten koste fan' does not have the 'ExtPos' feature
+[Line 254 Sent train_2010_burodevries_10616.TextGrid.16]: [L3 WARNING fixed-without-extpos] Fixed expression 'ja goed' does not have the 'ExtPos' feature
+[Line 368 Sent test_2013_buro_1521.TextGrid.24]: [L3 WARNING fixed-without-extpos] Fixed expression 'mar ja' does not have the 'ExtPos' feature
+[Line 806 Sent train_1993_gong_2473.TextGrid.53]: [L3 WARNING fixed-without-extpos] Fixed expression 'mar ja' does not have the 'ExtPos' feature
+[Line 1111 Sent train_2012_omnium_16103.TextGrid.75]: [L3 WARNING fixed-without-extpos] Fixed expression 'no ja' does not have the 'ExtPos' feature
+[Line 1240 Sent train_2005_omnium_14342.TextGrid.84]: [L3 WARNING fixed-without-extpos] Fixed expression 'yn ieder gefal' does not have the 'ExtPos' feature
+[Line 1324 Sent devel_2007_voedselbank_1247.TextGrid.88]: [L3 WARNING fixed-without-extpos] Fixed expression 'of wol' does not have the 'ExtPos' feature
+[Line 1523 Sent train_1986_rekreaasje_1399.TextGrid.100]: [L3 WARNING fixed-without-extpos] Fixed expression 'oan de hân fan' does not have the 'ExtPos' feature
+[Line 1565 Sent train_1993_streekkultuerealahuzen_11105.TextGrid.103]: [L3 WARNING fixed-without-extpos] Fixed expression 'onder anderen' does not have the 'ExtPos' feature
+[Line 2053 Sent train_2015_burodevrieslido_14169.TextGrid.137]: [L3 WARNING fixed-without-extpos] Fixed expression 'no ja' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 34
+*** PASSED ***
+Validity: 1
 (weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
@@ -50,6 +46,6 @@ Validity: 0.01
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
 (weight=0.111111111111111) * (score{udeprels}=0.945945945945946) = 0.105105105105105
-(TOTAL score=0.2763111364569) * (availability=1) * (validity=0.01) = 0.002763111364569
-STARS = 0
-UD_Frisian_Dutch-Fame	0.002763111364569	0
+(TOTAL score=0.2763111364569) * (availability=1) * (validity=1) = 0.2763111364569
+STARS = 1.5
+UD_Frisian_Dutch-Fame	0.2763111364569	1.5
